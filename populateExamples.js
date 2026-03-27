@@ -258,14 +258,16 @@ function htmlGlossaryToJsonRegex(htmlString) {
         const tdqm = require(`tqdm`);
         // const res = await findWordsbyKanji("念")
         // console.log(res)
-        
+        kanjiNoExamples = []
         for (kanji of tdqm(allKanji)){
             const res = await findWordsbyKanji(kanji)
             const id = await findKanji(kanji)
             // console.log(kanji)
             var example = "<br>"
-            console.log(res)
+            // console.log(res)
+            var i = 0
             for (ex of res){
+                i +=1
                 var speechstr = ""
                 var defstr = ""
                 for (pos of ex.partOfSpeech){
@@ -276,18 +278,21 @@ function htmlGlossaryToJsonRegex(htmlString) {
                 }
                 example = example + '<span style="color:lightgreen">' + ex.word + '</span>' + ': '  + defstr.slice(0,-2)+'<br>'
             }
-            // console.log(example)
-            // const gavno1 = await ankiConnectInvoke("updateNoteFields", 5,
-            // {
-            //     "note": {
-            //         "id": id,
-            //         "fields": {
-            //             "Examples": example
-            //         }
-            //     }
-            // })
+            if (i==0){
+                kanjiNoExamples.push(kanji)
+            }
+            const gavno1 = await ankiConnectInvoke("updateNoteFields", 5,
+            {
+                "note": {
+                    "id": id,
+                    "fields": {
+                        "Examples": example
+                    }
+                }
+            })
             // console.log(id)
         }
+    console.log("Kanji with no examples:", kanjiNoExamples)
     } catch (e) {
         console.error(`error finding kanji: ${e}`);
     }
