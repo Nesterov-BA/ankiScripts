@@ -1,3 +1,4 @@
+
 async function ankiConnectInvoke(action, version, params = {}) {
     const response = await fetch('http://127.0.0.1:8765', {
         method: 'POST',
@@ -253,15 +254,17 @@ function htmlGlossaryToJsonRegex(htmlString) {
         // const res = await findKanji("限");  // ✅ Await the async function
     try {
         const allKanji = await listKanji()
-
+        console.log(allKanji)
+        const tdqm = require(`tqdm`);
         // const res = await findWordsbyKanji("念")
         // console.log(res)
         
-        for (kanji of allKanji){
+        for (kanji of tdqm(allKanji)){
             const res = await findWordsbyKanji(kanji)
             const id = await findKanji(kanji)
-            console.log(kanji)
+            // console.log(kanji)
             var example = "<br>"
+            console.log(res)
             for (ex of res){
                 var speechstr = ""
                 var defstr = ""
@@ -273,26 +276,17 @@ function htmlGlossaryToJsonRegex(htmlString) {
                 }
                 example = example + '<span style="color:lightgreen">' + ex.word + '</span>' + ': '  + defstr.slice(0,-2)+'<br>'
             }
-            console.log(example)
-            // const gavno = await ankiConnectInvoke("updateNoteFields", 5,
+            // console.log(example)
+            // const gavno1 = await ankiConnectInvoke("updateNoteFields", 5,
             // {
             //     "note": {
             //         "id": id,
             //         "fields": {
-            //             "Examples": ""
+            //             "Examples": example
             //         }
             //     }
             // })
-            const gavno1 = await ankiConnectInvoke("updateNoteFields", 5,
-            {
-                "note": {
-                    "id": id,
-                    "fields": {
-                        "Examples": example
-                    }
-                }
-            })
-            console.log(id)
+            // console.log(id)
         }
     } catch (e) {
         console.error(`error finding kanji: ${e}`);
