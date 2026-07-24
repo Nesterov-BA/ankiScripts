@@ -1,0 +1,4332 @@
+{
+    "覧": {
+        "on_readings": "ラン",
+        "kun_readings": "み.る",
+        "meanings": [
+            "perusal",
+            "see"
+        ]
+    },
+    "還": {
+        "on_readings": "カン",
+        "kun_readings": "かえ.る",
+        "meanings": [
+            "send back",
+            "return"
+        ]
+    },
+    "対": {
+        "on_readings": "タイ, ツイ",
+        "kun_readings": "あいて, こた.える, そろ.い, つれあ.い, なら.ぶ, むか.う",
+        "meanings": [
+            "vis-a-vis",
+            "opposite",
+            "even",
+            "equal",
+            "versus",
+            "anti-",
+            "compare"
+        ]
+    },
+    "象": {
+        "on_readings": "ショウ, ゾウ",
+        "kun_readings": "かたど.る",
+        "meanings": [
+            "elephant",
+            "pattern after",
+            "imitate",
+            "image",
+            "shape",
+            "sign (of the times)"
+        ]
+    },
+    "作": {
+        "on_readings": "サク, サ",
+        "kun_readings": "つく.る, つく.り, -づく.り",
+        "meanings": [
+            "make",
+            "production",
+            "prepare",
+            "build"
+        ]
+    },
+    "部": {
+        "on_readings": "ブ",
+        "kun_readings": "-べ",
+        "meanings": [
+            "section",
+            "bureau",
+            "dept",
+            "class",
+            "copy",
+            "part",
+            "portion",
+            "counter for copies of a newspaper or magazine"
+        ]
+    },
+    "刊": {
+        "on_readings": "カン",
+        "kun_readings": "",
+        "meanings": [
+            "publish",
+            "carve",
+            "engrave"
+        ]
+    },
+    "新": {
+        "on_readings": "シン",
+        "kun_readings": "あたら.しい, あら.た, あら-, にい-",
+        "meanings": [
+            "new"
+        ]
+    },
+    "荷": {
+        "on_readings": "カ",
+        "kun_readings": "に",
+        "meanings": [
+            "baggage",
+            "shoulder-pole load",
+            "bear (a burden)",
+            "shoulder (a gun)",
+            "load",
+            "cargo",
+            "freight"
+        ]
+    },
+    "殺": {
+        "on_readings": "サツ, サイ, セツ",
+        "kun_readings": "ころ.す, -ごろ.し, そ.ぐ, あや.める",
+        "meanings": [
+            "butcher",
+            "slice off",
+            "split",
+            "diminish",
+            "reduce",
+            "spoil"
+        ]
+    },
+    "年": {
+        "on_readings": "ネン",
+        "kun_readings": "とし",
+        "meanings": [
+            "year"
+        ]
+    },
+    "念": {
+        "on_readings": "ネン",
+        "kun_readings": "",
+        "meanings": [
+            "wish",
+            " sense",
+            " idea",
+            " thought",
+            " feeling",
+            " desire",
+            " attention"
+        ]
+    },
+    "記": {
+        "on_readings": "キ",
+        "kun_readings": "しる.す",
+        "meanings": [
+            "scribe",
+            " account",
+            " narrative"
+        ]
+    },
+    "読": {
+        "on_readings": "ドク, トク, トウ",
+        "kun_readings": "よ.む, -よ.み",
+        "meanings": [
+            "read"
+        ]
+    },
+    "権": {
+        "on_readings": "ケン, ゴン",
+        "kun_readings": "おもり, かり, はか.る",
+        "meanings": [
+            "authority",
+            "power",
+            "rights"
+        ]
+    },
+    "限": {
+        "on_readings": "ゲン",
+        "kun_readings": "かぎ.る, かぎ.り, -かぎ.り",
+        "meanings": [
+            "limit",
+            "restrict",
+            "to best of ability"
+        ]
+    },
+    "無": {
+        "on_readings": "ム, ブ",
+        "kun_readings": "な.い",
+        "meanings": [
+            "nothingness",
+            "none",
+            "ain't",
+            "nothing",
+            "nil",
+            "not"
+        ]
+    },
+    "出": {
+        "on_readings": "シュツ, スイ",
+        "kun_readings": "で.る, -で, だ.す, -だ.す, い.でる, い.だす",
+        "meanings": [
+            "exit",
+            "leave",
+            "go out",
+            "come out",
+            "put out",
+            "protrude"
+        ]
+    },
+    "典": {
+        "on_readings": "テン, デン",
+        "kun_readings": "ふみ, のり",
+        "meanings": [
+            "code",
+            "ceremony",
+            "law",
+            "rule"
+        ]
+    },
+    "界": {
+        "on_readings": "カイ",
+        "kun_readings": "",
+        "meanings": [
+            "world",
+            "boundary"
+        ]
+    },
+    "項": {
+        "on_readings": "コウ",
+        "kun_readings": "うなじ",
+        "meanings": [
+            "paragraph",
+            "nape of neck",
+            "clause",
+            "item",
+            "term (expression)"
+        ]
+    },
+    "理": {
+        "on_readings": "リ",
+        "kun_readings": "ことわり",
+        "meanings": [
+            "logic",
+            "arrangement",
+            "reason",
+            "justice",
+            "truth"
+        ]
+    },
+    "解": {
+        "on_readings": "カイ, ゲ",
+        "kun_readings": "と.く, と.かす, と.ける, ほど.く, ほぐ.す, わか.る, さと.る",
+        "meanings": [
+            "unravel",
+            "notes",
+            "key",
+            "explanation",
+            "understanding",
+            "untie",
+            "undo",
+            "solve",
+            "answer",
+            "cancel",
+            "absolve",
+            "explain",
+            "minute"
+        ]
+    },
+    "概": {
+        "on_readings": "ガイ",
+        "kun_readings": "おおむ.ね",
+        "meanings": [
+            "outline",
+            "condition",
+            "approximation",
+            "generally"
+        ]
+    },
+    "有": {
+        "on_readings": "ユウ, ウ",
+        "kun_readings": "あ.る",
+        "meanings": [
+            "possess",
+            "have",
+            "exist",
+            "happen",
+            "occur",
+            "approx"
+        ]
+    },
+    "世": {
+        "on_readings": "セイ, セ, ソウ",
+        "kun_readings": "よ",
+        "meanings": [
+            "generation",
+            "world",
+            "society",
+            "public"
+        ]
+    },
+    "知": {
+        "on_readings": "チ",
+        "kun_readings": "し.る, し.らせる",
+        "meanings": [
+            "know",
+            "wisdom"
+        ]
+    },
+    "思": {
+        "on_readings": "シ",
+        "kun_readings": "おも.う, おもえら.く, おぼ.す",
+        "meanings": [
+            "think"
+        ]
+    },
+    "関": {
+        "on_readings": "カン",
+        "kun_readings": "せき, -ぜき, かか.わる, からくり, かんぬき",
+        "meanings": [
+            "connection",
+            "barrier",
+            "gateway",
+            "involve",
+            "concerning"
+        ]
+    },
+    "週": {
+        "on_readings": "シュウ",
+        "kun_readings": "",
+        "meanings": [
+            "week"
+        ]
+    },
+    "光": {
+        "on_readings": "コウ",
+        "kun_readings": "ひか.る, ひかり",
+        "meanings": [
+            "ray",
+            "light"
+        ]
+    },
+    "仕": {
+        "on_readings": "シ, ジ",
+        "kun_readings": "つか.える",
+        "meanings": [
+            "attend",
+            "doing",
+            "official",
+            "serve"
+        ]
+    },
+    "事": {
+        "on_readings": "ジ, ズ",
+        "kun_readings": "こと, つか.う, つか.える",
+        "meanings": [
+            "matter",
+            "thing",
+            "fact",
+            "business",
+            "reason",
+            "possibly"
+        ]
+    },
+    "支": {
+        "on_readings": "シ",
+        "kun_readings": "ささ.える, つか.える, か.う",
+        "meanings": [
+            "branch",
+            "support",
+            "sustain",
+            "branch radical (no. 65)"
+        ]
+    },
+    "障": {
+        "on_readings": "ショウ",
+        "kun_readings": "さわ.る",
+        "meanings": [
+            "hinder",
+            "hurt",
+            "harm"
+        ]
+    },
+    "特": {
+        "on_readings": "トク",
+        "kun_readings": "",
+        "meanings": [
+            "special"
+        ]
+    },
+    "集": {
+        "on_readings": "シュウ",
+        "kun_readings": "あつ.まる, あつ.める, つど.う",
+        "meanings": [
+            "gather",
+            "meet",
+            "congregate",
+            "swarm",
+            "flock"
+        ]
+    },
+    "企": {
+        "on_readings": "キ",
+        "kun_readings": "くわだ.てる, たくら.む",
+        "meanings": [
+            "undertake",
+            "scheme",
+            "design",
+            "attempt",
+            "plan"
+        ]
+    },
+    "画": {
+        "on_readings": "ガ, カク, エ, カイ",
+        "kun_readings": "えが.く, かく.する, かぎ.る, はかりごと, はか.る",
+        "meanings": [
+            "brush-stroke",
+            "picture"
+        ]
+    },
+    "少": {
+        "on_readings": "ショウ",
+        "kun_readings": "すく.ない, すこ.し",
+        "meanings": [
+            "few",
+            "little"
+        ]
+    },
+    "家": {
+        "on_readings": "カ, ケ",
+        "kun_readings": "いえ, や, うち",
+        "meanings": [
+            "house",
+            "home",
+            "family",
+            "professional",
+            "expert",
+            "performer"
+        ]
+    },
+    "全": {
+        "on_readings": "ゼン",
+        "kun_readings": "まった.く, すべ.て",
+        "meanings": [
+            "whole",
+            "entire",
+            "all",
+            "complete",
+            "fulfill"
+        ]
+    },
+    "釘": {
+        "on_readings": "テイ, チョウ",
+        "kun_readings": "くぎ",
+        "meanings": [
+            "nail",
+            "tack",
+            "peg"
+        ]
+    },
+    "者": {
+        "on_readings": "シャ",
+        "kun_readings": "もの",
+        "meanings": [
+            "someone",
+            "person"
+        ]
+    },
+    "道": {
+        "on_readings": "ドウ, トウ",
+        "kun_readings": "みち, いう",
+        "meanings": [
+            "road-way",
+            "street",
+            "district",
+            "journey",
+            "course",
+            "moral",
+            "teachings"
+        ]
+    },
+    "具": {
+        "on_readings": "グ",
+        "kun_readings": "そな.える, つぶさ.に",
+        "meanings": [
+            "tool",
+            "utensil",
+            "means",
+            "possess",
+            "ingredients",
+            "counter for armor, suits, sets of furniture"
+        ]
+    },
+    "機": {
+        "on_readings": "キ",
+        "kun_readings": "はた",
+        "meanings": [
+            "loom",
+            "mechanism",
+            "machine",
+            "airplane",
+            "opportunity",
+            "potency",
+            "efficacy",
+            "occasion"
+        ]
+    },
+    "能": {
+        "on_readings": "ノウ",
+        "kun_readings": "よ.く, あた.う",
+        "meanings": [
+            "ability",
+            "talent",
+            "skill",
+            "capacity"
+        ]
+    },
+    "生": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "い.きる, い.かす, い.ける, う.まれる, うま.れる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う",
+        "meanings": [
+            "life",
+            "genuine",
+            "birth"
+        ]
+    },
+    "身": {
+        "on_readings": "シン",
+        "kun_readings": "み",
+        "meanings": [
+            "somebody",
+            "person",
+            "one's station in life"
+        ]
+    },
+    "憶": {
+        "on_readings": "オク",
+        "kun_readings": "",
+        "meanings": [
+            "recollection",
+            "think",
+            "remember"
+        ]
+    },
+    "書": {
+        "on_readings": "ショ",
+        "kun_readings": "か.く, -が.き, -がき",
+        "meanings": [
+            "write"
+        ]
+    },
+    "想": {
+        "on_readings": "ソウ, ソ",
+        "kun_readings": "おも.う",
+        "meanings": [
+            "idea",
+            "thought",
+            "conception",
+            "think"
+        ]
+    },
+    "連": {
+        "on_readings": "レン",
+        "kun_readings": "つら.なる, つら.ねる, つ.れる, -づ.れ",
+        "meanings": [
+            "take along",
+            "lead",
+            "join",
+            "connect",
+            "party",
+            "gang",
+            "clique"
+        ]
+    },
+    "籍": {
+        "on_readings": "セキ",
+        "kun_readings": "",
+        "meanings": [
+            "enroll",
+            "domiciliary register",
+            "membership"
+        ]
+    },
+    "細": {
+        "on_readings": "サイ",
+        "kun_readings": "ほそ.い, ほそ.る, こま.か, こま.かい",
+        "meanings": [
+            "dainty",
+            "get thin",
+            "taper",
+            "slender",
+            "narrow",
+            "detailed",
+            "precise"
+        ]
+    },
+    "断": {
+        "on_readings": "ダン",
+        "kun_readings": "た.つ, ことわ.る, さだ.める",
+        "meanings": [
+            "severance",
+            "decline",
+            "refuse",
+            "apologize",
+            "warn",
+            "dismiss",
+            "prohibit",
+            "decision",
+            "judgement",
+            "cutting"
+        ]
+    },
+    "片": {
+        "on_readings": "ヘン",
+        "kun_readings": "かた-, かた",
+        "meanings": [
+            "one-sided",
+            "leaf",
+            "sheet",
+            "right-side kata radical (no. 91)"
+        ]
+    },
+    "色": {
+        "on_readings": "ショク, シキ",
+        "kun_readings": "いろ",
+        "meanings": [
+            "color"
+        ]
+    },
+    "初": {
+        "on_readings": "ショ",
+        "kun_readings": "はじ.め, はじ.めて, はつ, はつ-, うい-, -そ.める, -ぞ.め",
+        "meanings": [
+            "first time",
+            "beginning"
+        ]
+    },
+    "例": {
+        "on_readings": "レイ",
+        "kun_readings": "たと.える",
+        "meanings": [
+            "example",
+            "custom",
+            "usage",
+            "precedent"
+        ]
+    },
+    "的": {
+        "on_readings": "テキ",
+        "kun_readings": "まと",
+        "meanings": [
+            "bull's eye",
+            "mark",
+            "target",
+            "object",
+            "adjective ending"
+        ]
+    },
+    "産": {
+        "on_readings": "サン",
+        "kun_readings": "う.む, う.まれる, うぶ-, む.す",
+        "meanings": [
+            "products",
+            "bear",
+            "give birth",
+            "yield",
+            "childbirth",
+            "native",
+            "property"
+        ]
+    },
+    "術": {
+        "on_readings": "ジュツ",
+        "kun_readings": "すべ",
+        "meanings": [
+            "art",
+            "technique",
+            "skill",
+            "means",
+            "trick",
+            "resources",
+            "magic"
+        ]
+    },
+    "学": {
+        "on_readings": "ガク",
+        "kun_readings": "まな.ぶ",
+        "meanings": [
+            "study",
+            "learning",
+            "science"
+        ]
+    },
+    "考": {
+        "on_readings": "コウ",
+        "kun_readings": "かんが.える, かんが.え",
+        "meanings": [
+            "consider",
+            "think over"
+        ]
+    },
+    "気": {
+        "on_readings": "キ, ケ",
+        "kun_readings": "いき, き",
+        "meanings": [
+            "spirit",
+            "mind",
+            "air",
+            "atmosphere",
+            "mood"
+        ]
+    },
+    "付": {
+        "on_readings": "フ",
+        "kun_readings": "つ.ける, -つ.ける, -づ.ける, つ.け, つ.け-, -つ.け, -づ.け, -づけ, つ.く, -づ.く, つ.き, -つ.き, -つき, -づ.き, -づき",
+        "meanings": [
+            "adhere",
+            "attach",
+            "refer to",
+            "append"
+        ]
+    },
+    "調": {
+        "on_readings": "チョウ",
+        "kun_readings": "しら.べる, しら.べ, ととの.う, ととの.える",
+        "meanings": [
+            "tune",
+            "tone",
+            "meter",
+            "key (music)",
+            "writing style",
+            "prepare",
+            "exorcise",
+            "investigate",
+            "harmonize",
+            "mediate"
+        ]
+    },
+    "査": {
+        "on_readings": "サ",
+        "kun_readings": "",
+        "meanings": [
+            "investigate"
+        ]
+    },
+    "現": {
+        "on_readings": "ゲン",
+        "kun_readings": "あらわ.れる, あらわ.す, うつつ, うつ.つ",
+        "meanings": [
+            "present",
+            "existing",
+            "actual"
+        ]
+    },
+    "代": {
+        "on_readings": "ダイ, タイ",
+        "kun_readings": "か.わる, かわ.る, かわ.り, か.わり, -がわ.り, -が.わり, か.える, よ, しろ",
+        "meanings": [
+            "substitute",
+            "change",
+            "convert",
+            "replace",
+            "period",
+            "age",
+            "counter for decades of ages, eras, etc.",
+            "generation",
+            "charge",
+            "rate",
+            "fee"
+        ]
+    },
+    "常": {
+        "on_readings": "ジョウ",
+        "kun_readings": "つね, とこ-",
+        "meanings": [
+            "usual",
+            "ordinary",
+            "normal",
+            "common",
+            "regular",
+            "continually",
+            "always",
+            "long-lasting"
+        ]
+    },
+    "個": {
+        "on_readings": "コ, カ",
+        "kun_readings": "",
+        "meanings": [
+            "individual",
+            "counter for articles"
+        ]
+    },
+    "人": {
+        "on_readings": "ジン, ニン",
+        "kun_readings": "ひと, -り, -と",
+        "meanings": [
+            "person"
+        ]
+    },
+    "情": {
+        "on_readings": "ジョウ, セイ",
+        "kun_readings": "なさ.け",
+        "meanings": [
+            "feelings",
+            "emotion",
+            "passion",
+            "sympathy",
+            "circumstances",
+            "facts"
+        ]
+    },
+    "報": {
+        "on_readings": "ホウ",
+        "kun_readings": "むく.いる",
+        "meanings": [
+            "report",
+            "news",
+            "reward",
+            "retribution"
+        ]
+    },
+    "求": {
+        "on_readings": "キュウ, グ",
+        "kun_readings": "もと.める",
+        "meanings": [
+            "request",
+            "want",
+            "wish for",
+            "require",
+            "demand"
+        ]
+    },
+    "業": {
+        "on_readings": "ギョウ, ゴウ",
+        "kun_readings": "わざ",
+        "meanings": [
+            "business",
+            "vocation",
+            "arts",
+            "performance"
+        ]
+    },
+    "系": {
+        "on_readings": "ケイ",
+        "kun_readings": "",
+        "meanings": [
+            "lineage",
+            "system"
+        ]
+    },
+    "文": {
+        "on_readings": "ブン, モン",
+        "kun_readings": "ふみ, あや",
+        "meanings": [
+            "sentence",
+            "literature",
+            "style",
+            "art",
+            "decoration",
+            "figures",
+            "plan",
+            "literary radical (no. 67)"
+        ]
+    },
+    "執": {
+        "on_readings": "シツ, シュウ",
+        "kun_readings": "と.る",
+        "meanings": [
+            "tenacious",
+            "take hold",
+            "grasp",
+            "take to heart"
+        ]
+    },
+    "筆": {
+        "on_readings": "ヒツ",
+        "kun_readings": "ふで",
+        "meanings": [
+            "writing brush",
+            "writing",
+            "painting brush",
+            "handwriting"
+        ]
+    },
+    "手": {
+        "on_readings": "シュ, ズ",
+        "kun_readings": "て, て-, -て, た-",
+        "meanings": [
+            "hand"
+        ]
+    },
+    "帳": {
+        "on_readings": "チョウ",
+        "kun_readings": "とばり",
+        "meanings": [
+            "notebook",
+            "account book",
+            "album",
+            "curtain",
+            "veil",
+            "net",
+            "tent"
+        ]
+    },
+    "最": {
+        "on_readings": "サイ, シュ",
+        "kun_readings": "もっと.も, つま",
+        "meanings": [
+            "utmost",
+            "most",
+            "extreme"
+        ]
+    },
+    "近": {
+        "on_readings": "キン, コン",
+        "kun_readings": "ちか.い",
+        "meanings": [
+            "near",
+            "early",
+            "akin",
+            "tantamount"
+        ]
+    },
+    "選": {
+        "on_readings": "セン",
+        "kun_readings": "えら.ぶ, え.る, よ.る",
+        "meanings": [
+            "elect",
+            "select",
+            "choose",
+            "prefer"
+        ]
+    },
+    "挙": {
+        "on_readings": "キョ",
+        "kun_readings": "あ.げる, あ.がる, こぞ.る",
+        "meanings": [
+            "raise",
+            "plan",
+            "project",
+            "behavior",
+            "actions"
+        ]
+    },
+    "目": {
+        "on_readings": "モク, ボク",
+        "kun_readings": "め, -め, ま-",
+        "meanings": [
+            "eye",
+            "class",
+            "look",
+            "insight",
+            "experience",
+            "care",
+            "favor"
+        ]
+    },
+    "次": {
+        "on_readings": "ジ, シ",
+        "kun_readings": "つ.ぐ, つぎ",
+        "meanings": [
+            "next",
+            "order",
+            "sequence"
+        ]
+    },
+    "民": {
+        "on_readings": "ミン",
+        "kun_readings": "たみ",
+        "meanings": [
+            "people",
+            "nation",
+            "subjects"
+        ]
+    },
+    "技": {
+        "on_readings": "ギ",
+        "kun_readings": "わざ",
+        "meanings": [
+            "skill",
+            "art",
+            "craft",
+            "ability",
+            "feat",
+            "performance",
+            "vocation",
+            "arts"
+        ]
+    },
+    "政": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "まつりごと, まん",
+        "meanings": [
+            "politics",
+            "government"
+        ]
+    },
+    "策": {
+        "on_readings": "サク",
+        "kun_readings": "",
+        "meanings": [
+            "scheme",
+            "plan",
+            "policy",
+            "step",
+            "means"
+        ]
+    },
+    "参": {
+        "on_readings": "サン, シン",
+        "kun_readings": "まい.る, まい-, まじわる, みつ",
+        "meanings": [
+            "nonplussed",
+            "three (in documents)",
+            "going",
+            "coming",
+            "visiting",
+            "visit",
+            "be defeated",
+            "die",
+            "be madly in love",
+            "participate",
+            "take part in"
+        ]
+    },
+    "加": {
+        "on_readings": "カ",
+        "kun_readings": "くわ.える, くわ.わる",
+        "meanings": [
+            "add",
+            "addition",
+            "increase",
+            "join",
+            "include",
+            "Canada"
+        ]
+    },
+    "未": {
+        "on_readings": "ミ, ビ",
+        "kun_readings": "いま.だ, ま.だ, ひつじ",
+        "meanings": [
+            "un-",
+            "not yet",
+            "hitherto",
+            "still",
+            "even now",
+            "sign of the ram",
+            "1-3PM",
+            "eighth sign of Chinese zodiac"
+        ]
+    },
+    "来": {
+        "on_readings": "ライ, タイ",
+        "kun_readings": "く.る, きた.る, きた.す, き.たす, き.たる, き, こ",
+        "meanings": [
+            "come",
+            "due",
+            "next",
+            "cause",
+            "become"
+        ]
+    },
+    "指": {
+        "on_readings": "シ",
+        "kun_readings": "ゆび, さ.す, -さ.し",
+        "meanings": [
+            "finger",
+            "point to",
+            "indicate",
+            "put into",
+            "play (chess)",
+            "measure (ruler)"
+        ]
+    },
+    "社": {
+        "on_readings": "シャ",
+        "kun_readings": "やしろ",
+        "meanings": [
+            "company",
+            "firm",
+            "office",
+            "association",
+            "shrine"
+        ]
+    },
+    "会": {
+        "on_readings": "カイ, エ",
+        "kun_readings": "あ.う, あ.わせる, あつ.まる",
+        "meanings": [
+            "meeting",
+            "meet",
+            "party",
+            "association",
+            "interview",
+            "join"
+        ]
+    },
+    "間": {
+        "on_readings": "カン, ケン",
+        "kun_readings": "あいだ, ま, あい",
+        "meanings": [
+            "interval",
+            "space"
+        ]
+    },
+    "計": {
+        "on_readings": "ケイ",
+        "kun_readings": "はか.る, はか.らう",
+        "meanings": [
+            "plot",
+            "plan",
+            "scheme",
+            "measure"
+        ]
+    },
+    "算": {
+        "on_readings": "サン",
+        "kun_readings": "そろ",
+        "meanings": [
+            "calculate",
+            "divining",
+            "number",
+            "abacus",
+            "probability"
+        ]
+    },
+    "投": {
+        "on_readings": "トウ",
+        "kun_readings": "な.げる, -な.げ",
+        "meanings": [
+            "throw",
+            "discard",
+            "abandon",
+            "launch into",
+            "join",
+            "invest in",
+            "hurl",
+            "give up",
+            "sell at a loss"
+        ]
+    },
+    "票": {
+        "on_readings": "ヒョウ",
+        "kun_readings": "",
+        "meanings": [
+            "ballot",
+            "label",
+            "ticket",
+            "sign"
+        ]
+    },
+    "市": {
+        "on_readings": "シ",
+        "kun_readings": "いち",
+        "meanings": [
+            "market",
+            "city",
+            "town"
+        ]
+    },
+    "場": {
+        "on_readings": "ジョウ, チョウ",
+        "kun_readings": "ば",
+        "meanings": [
+            "location",
+            "place"
+        ]
+    },
+    "期": {
+        "on_readings": "キ, ゴ",
+        "kun_readings": "",
+        "meanings": [
+            "period",
+            "time",
+            "date",
+            "term"
+        ]
+    },
+    "府": {
+        "on_readings": "フ",
+        "kun_readings": "",
+        "meanings": [
+            "borough",
+            "urban prefecture",
+            "govt office",
+            "representative body",
+            "storehouse"
+        ]
+    },
+    "保": {
+        "on_readings": "ホ, ホウ",
+        "kun_readings": "たも.つ",
+        "meanings": [
+            "protect",
+            "guarantee",
+            "keep",
+            "preserve",
+            "sustain",
+            "support"
+        ]
+    },
+    "険": {
+        "on_readings": "ケン",
+        "kun_readings": "けわ.しい",
+        "meanings": [
+            "precipitous",
+            "inaccessible place",
+            "impregnable position",
+            "steep place",
+            "sharp eyes"
+        ]
+    },
+    "鉄": {
+        "on_readings": "テツ",
+        "kun_readings": "くろがね",
+        "meanings": [
+            "iron"
+        ]
+    },
+    "後": {
+        "on_readings": "ゴ, コウ",
+        "kun_readings": "のち, うし.ろ, うしろ, あと, おく.れる",
+        "meanings": [
+            "behind",
+            "back",
+            "later"
+        ]
+    },
+    "設": {
+        "on_readings": "セツ",
+        "kun_readings": "もう.ける",
+        "meanings": [
+            "establishment",
+            "provision",
+            "prepare"
+        ]
+    },
+    "立": {
+        "on_readings": "リツ, リュウ, リットル",
+        "kun_readings": "た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる",
+        "meanings": [
+            "stand up",
+            "rise",
+            "set up",
+            "erect"
+        ]
+    },
+    "用": {
+        "on_readings": "ヨウ",
+        "kun_readings": "もち.いる",
+        "meanings": [
+            "utilize",
+            "business",
+            "service",
+            "use",
+            "employ"
+        ]
+    },
+    "完": {
+        "on_readings": "カン",
+        "kun_readings": "",
+        "meanings": [
+            "perfect",
+            "completion",
+            "end"
+        ]
+    },
+    "了": {
+        "on_readings": "リョウ",
+        "kun_readings": "",
+        "meanings": [
+            "complete",
+            "finish"
+        ]
+    },
+    "律": {
+        "on_readings": "リツ, リチ, レツ",
+        "kun_readings": "",
+        "meanings": [
+            "rhythm",
+            "law",
+            "regulation",
+            "gauge",
+            "control"
+        ]
+    },
+    "失": {
+        "on_readings": "シツ",
+        "kun_readings": "うしな.う, う.せる",
+        "meanings": [
+            "lose",
+            "error",
+            "fault",
+            "disadvantage",
+            "loss"
+        ]
+    },
+    "敗": {
+        "on_readings": "ハイ",
+        "kun_readings": "やぶ.れる",
+        "meanings": [
+            "failure",
+            "defeat",
+            "reversal"
+        ]
+    },
+    "死": {
+        "on_readings": "シ",
+        "kun_readings": "し.ぬ, し.に-",
+        "meanings": [
+            "death",
+            "die"
+        ]
+    },
+    "刑": {
+        "on_readings": "ケイ",
+        "kun_readings": "",
+        "meanings": [
+            "punish",
+            "penalty",
+            "sentence",
+            "punishment"
+        ]
+    },
+    "庭": {
+        "on_readings": "テイ",
+        "kun_readings": "にわ",
+        "meanings": [
+            "courtyard",
+            "garden",
+            "yard"
+        ]
+    },
+    "師": {
+        "on_readings": "シ",
+        "kun_readings": "いくさ",
+        "meanings": [
+            "expert",
+            "teacher",
+            "master",
+            "model",
+            "exemplar",
+            "army (incl. counter)",
+            "war"
+        ]
+    },
+    "実": {
+        "on_readings": "ジツ, シツ",
+        "kun_readings": "み, みの.る, まこと, みの, みち.る",
+        "meanings": [
+            "reality",
+            "truth",
+            "seed",
+            "fruit",
+            "nut"
+        ]
+    },
+    "際": {
+        "on_readings": "サイ",
+        "kun_readings": "きわ, -ぎわ",
+        "meanings": [
+            "occasion",
+            "side",
+            "edge",
+            "verge",
+            "dangerous",
+            "adventurous",
+            "indecent",
+            "time",
+            "when"
+        ]
+    },
+    "釈": {
+        "on_readings": "シャク, セキ",
+        "kun_readings": "とく, す.てる, ゆる.す",
+        "meanings": [
+            "explanation"
+        ]
+    },
+    "分": {
+        "on_readings": "ブン, フン, ブ",
+        "kun_readings": "わ.ける, わ.け, わ.かれる, わ.かる, わ.かつ",
+        "meanings": [
+            "part",
+            "minute of time",
+            "segment",
+            "share",
+            "degree",
+            "one's lot",
+            "duty",
+            "understand",
+            "know",
+            "rate",
+            "1%",
+            "chances",
+            "shaku/100"
+        ]
+    },
+    "離": {
+        "on_readings": "リ",
+        "kun_readings": "はな.れる, はな.す",
+        "meanings": [
+            "detach",
+            "separation",
+            "disjoin",
+            "digress"
+        ]
+    },
+    "訓": {
+        "on_readings": "クン, キン",
+        "kun_readings": "おし.える, よ.む, くん.ずる",
+        "meanings": [
+            "instruction",
+            "Japanese character reading",
+            "explanation",
+            "read"
+        ]
+    },
+    "練": {
+        "on_readings": "レン",
+        "kun_readings": "ね.る, ね.り",
+        "meanings": [
+            "practice",
+            "gloss",
+            "train",
+            "drill",
+            "polish",
+            "refine"
+        ]
+    },
+    "定": {
+        "on_readings": "テイ, ジョウ",
+        "kun_readings": "さだ.める, さだ.まる, さだ.か",
+        "meanings": [
+            "determine",
+            "fix",
+            "establish",
+            "decide"
+        ]
+    },
+    "開": {
+        "on_readings": "カイ",
+        "kun_readings": "ひら.く, ひら.き, -びら.き, ひら.ける, あ.く, あ.ける",
+        "meanings": [
+            "open",
+            "unfold",
+            "unseal"
+        ]
+    },
+    "放": {
+        "on_readings": "ホウ",
+        "kun_readings": "はな.す, -っぱな.し, はな.つ, はな.れる, こ.く, ほう.る",
+        "meanings": [
+            "set free",
+            "release",
+            "fire",
+            "shoot",
+            "emit",
+            "banish",
+            "liberate"
+        ]
+    },
+    "校": {
+        "on_readings": "コウ, キョウ",
+        "kun_readings": "",
+        "meanings": [
+            "exam",
+            "school",
+            "printing",
+            "proof",
+            "correction"
+        ]
+    },
+    "拶": {
+        "on_readings": "サツ",
+        "kun_readings": "せま.る",
+        "meanings": [
+            "be imminent",
+            "draw close"
+        ]
+    },
+    "喜": {
+        "on_readings": "キ",
+        "kun_readings": "よろこ.ぶ, よろこ.ばす",
+        "meanings": [
+            "rejoice",
+            "take pleasure in"
+        ]
+    },
+    "存": {
+        "on_readings": "ソン, ゾン",
+        "kun_readings": "ながら.える, あ.る, たも.つ, と.う",
+        "meanings": [
+            "exist",
+            "suppose",
+            "be aware of",
+            "believe",
+            "feel"
+        ]
+    },
+    "要": {
+        "on_readings": "ヨウ",
+        "kun_readings": "い.る, かなめ",
+        "meanings": [
+            "need",
+            "main point",
+            "essence",
+            "pivot",
+            "key to"
+        ]
+    },
+    "約": {
+        "on_readings": "ヤク",
+        "kun_readings": "つづ.まる, つづ.める, つづま.やか",
+        "meanings": [
+            "promise",
+            "approximately",
+            "shrink"
+        ]
+    },
+    "感": {
+        "on_readings": "カン",
+        "kun_readings": "",
+        "meanings": [
+            "emotion",
+            "feeling",
+            "sensation"
+        ]
+    },
+    "良": {
+        "on_readings": "リョウ",
+        "kun_readings": "よ.い, -よ.い, い.い, -い.い",
+        "meanings": [
+            "good",
+            "pleasing",
+            "skilled"
+        ]
+    },
+    "本": {
+        "on_readings": "ホン",
+        "kun_readings": "もと",
+        "meanings": [
+            "book",
+            "present",
+            "main",
+            "origin",
+            "true",
+            "real",
+            "counter for long cylindrical things"
+        ]
+    },
+    "当": {
+        "on_readings": "トウ",
+        "kun_readings": "あ.たる, あ.たり, あ.てる, あ.て, まさ.に, まさ.にべし",
+        "meanings": [
+            "hit",
+            "right",
+            "appropriate",
+            "himself"
+        ]
+    },
+    "決": {
+        "on_readings": "ケツ",
+        "kun_readings": "き.める, -ぎ.め, き.まる, さ.く",
+        "meanings": [
+            "decide",
+            "fix",
+            "agree upon",
+            "appoint"
+        ]
+    },
+    "命": {
+        "on_readings": "メイ, ミョウ",
+        "kun_readings": "いのち",
+        "meanings": [
+            "fate",
+            "command",
+            "decree",
+            "destiny",
+            "life",
+            "appoint"
+        ]
+    },
+    "恩": {
+        "on_readings": "オン",
+        "kun_readings": "",
+        "meanings": [
+            "grace",
+            "kindness",
+            "goodness",
+            "favor",
+            "mercy",
+            "blessing",
+            "benefit"
+        ]
+    },
+    "変": {
+        "on_readings": "ヘン",
+        "kun_readings": "か.わる, か.わり, か.える",
+        "meanings": [
+            "unusual",
+            "change",
+            "strange"
+        ]
+    },
+    "神": {
+        "on_readings": "シン, ジン",
+        "kun_readings": "かみ, かん-, こう-",
+        "meanings": [
+            "gods",
+            "mind",
+            "soul"
+        ]
+    },
+    "様": {
+        "on_readings": "ヨウ, ショウ",
+        "kun_readings": "さま, さん",
+        "meanings": [
+            "Esq.",
+            "way",
+            "manner",
+            "situation",
+            "polite suffix"
+        ]
+    },
+    "若": {
+        "on_readings": "ジャク, ニャク, ニャ",
+        "kun_readings": "わか.い, わか-, も.しくわ, も.し, も.しくは, ごと.し",
+        "meanings": [
+            "young",
+            "if",
+            "perhaps",
+            "possibly",
+            "low number",
+            "immature"
+        ]
+    },
+    "運": {
+        "on_readings": "ウン",
+        "kun_readings": "はこ.ぶ",
+        "meanings": [
+            "carry",
+            "luck",
+            "destiny",
+            "fate",
+            "lot",
+            "transport",
+            "progress",
+            "advance"
+        ]
+    },
+    "石": {
+        "on_readings": "セキ, シャク, コク",
+        "kun_readings": "いし",
+        "meanings": [
+            "stone"
+        ]
+    },
+    "換": {
+        "on_readings": "カン",
+        "kun_readings": "か.える, -か.える, か.わる",
+        "meanings": [
+            "interchange",
+            "period",
+            "change",
+            "convert",
+            "replace",
+            "renew"
+        ]
+    },
+    "金": {
+        "on_readings": "キン, コン, ゴン",
+        "kun_readings": "かね, かな-, -がね",
+        "meanings": [
+            "gold"
+        ]
+    },
+    "自": {
+        "on_readings": "ジ, シ",
+        "kun_readings": "みずか.ら, おの.ずから, おの.ずと",
+        "meanings": [
+            "oneself"
+        ]
+    },
+    "賃": {
+        "on_readings": "チン",
+        "kun_readings": "",
+        "meanings": [
+            "fare",
+            "fee",
+            "hire",
+            "rent",
+            "wages",
+            "charge"
+        ]
+    },
+    "資": {
+        "on_readings": "シ",
+        "kun_readings": "",
+        "meanings": [
+            "assets",
+            "resources",
+            "capital",
+            "funds",
+            "data",
+            "be conducive to",
+            "contribute to"
+        ]
+    },
+    "鼠": {
+        "on_readings": "ソ, ショ",
+        "kun_readings": "ねずみ, ねず",
+        "meanings": [
+            "rat",
+            "mouse",
+            "dark gray"
+        ]
+    },
+    "焼": {
+        "on_readings": "ショウ",
+        "kun_readings": "や.く, や.き, や.き-, -や.き, や.ける",
+        "meanings": [
+            "bake",
+            "burning"
+        ]
+    },
+    "敵": {
+        "on_readings": "テキ",
+        "kun_readings": "かたき, あだ, かな.う",
+        "meanings": [
+            "enemy",
+            "foe",
+            "opponent"
+        ]
+    },
+    "地": {
+        "on_readings": "チ, ジ",
+        "kun_readings": "",
+        "meanings": [
+            "ground",
+            "earth"
+        ]
+    },
+    "域": {
+        "on_readings": "イキ",
+        "kun_readings": "",
+        "meanings": [
+            "range",
+            "region",
+            "limits",
+            "stage",
+            "level"
+        ]
+    },
+    "腹": {
+        "on_readings": "フク",
+        "kun_readings": "はら",
+        "meanings": [
+            "abdomen",
+            "belly",
+            "stomach"
+        ]
+    },
+    "映": {
+        "on_readings": "エイ",
+        "kun_readings": "うつ.る, うつ.す, は.える, -ば.え",
+        "meanings": [
+            "reflect",
+            "reflection",
+            "projection"
+        ]
+    },
+    "像": {
+        "on_readings": "ゾウ",
+        "kun_readings": "",
+        "meanings": [
+            "statue",
+            "picture",
+            "image",
+            "figure",
+            "portrait"
+        ]
+    },
+    "呪": {
+        "on_readings": "ジュ, シュ, シュウ, ズ",
+        "kun_readings": "まじな.う, のろ.い, まじな.い, のろ.う",
+        "meanings": [
+            "spell",
+            "curse",
+            "charm",
+            "malediction"
+        ]
+    },
+    "別": {
+        "on_readings": "ベツ",
+        "kun_readings": "わか.れる, わ.ける",
+        "meanings": [
+            "separate",
+            "branch off",
+            "diverge",
+            "fork",
+            "another",
+            "extra",
+            "specially"
+        ]
+    },
+    "公": {
+        "on_readings": "コウ, ク",
+        "kun_readings": "おおやけ",
+        "meanings": [
+            "public",
+            "prince",
+            "official",
+            "governmental"
+        ]
+    },
+    "嬉": {
+        "on_readings": "キ",
+        "kun_readings": "うれ.しい, たの.しむ",
+        "meanings": [
+            "glad",
+            "pleased",
+            "rejoice"
+        ]
+    },
+    "禁": {
+        "on_readings": "キン",
+        "kun_readings": "",
+        "meanings": [
+            "prohibition",
+            "ban",
+            "forbid"
+        ]
+    },
+    "遊": {
+        "on_readings": "ユウ, ユ",
+        "kun_readings": "あそ.ぶ, あそ.ばす",
+        "meanings": [
+            "play"
+        ]
+    },
+    "漁": {
+        "on_readings": "ギョ, リョウ",
+        "kun_readings": "あさ.る",
+        "meanings": [
+            "fishing",
+            "fishery"
+        ]
+    },
+    "足": {
+        "on_readings": "ソク",
+        "kun_readings": "あし, た.りる, た.る, た.す",
+        "meanings": [
+            "leg",
+            "foot",
+            "be sufficient",
+            "counter for pairs of footwear"
+        ]
+    },
+    "料": {
+        "on_readings": "リョウ",
+        "kun_readings": "",
+        "meanings": [
+            "fee",
+            "materials"
+        ]
+    },
+    "体": {
+        "on_readings": "タイ, テイ",
+        "kun_readings": "からだ, かたち",
+        "meanings": [
+            "body",
+            "substance",
+            "object",
+            "reality",
+            "counter for images"
+        ]
+    },
+    "験": {
+        "on_readings": "ケン, ゲン",
+        "kun_readings": "あかし, しるし, ため.す, ためし",
+        "meanings": [
+            "verification",
+            "effect",
+            "testing"
+        ]
+    },
+    "先": {
+        "on_readings": "セン",
+        "kun_readings": "さき, ま.ず",
+        "meanings": [
+            "before",
+            "ahead",
+            "previous",
+            "future",
+            "precedence"
+        ]
+    },
+    "行": {
+        "on_readings": "コウ, ギョウ, アン",
+        "kun_readings": "い.く, ゆ.く, -ゆ.き, -ゆき, -い.き, -いき, おこな.う, おこ.なう",
+        "meanings": [
+            "going",
+            "journey",
+            "carry out",
+            "conduct",
+            "act",
+            "line",
+            "row",
+            "bank"
+        ]
+    },
+    "序": {
+        "on_readings": "ジョ",
+        "kun_readings": "つい.で, ついで",
+        "meanings": [
+            "preface",
+            "beginning",
+            "order",
+            "precedence",
+            "occasion",
+            "chance",
+            "incidentally"
+        ]
+    },
+    "盤": {
+        "on_readings": "バン",
+        "kun_readings": "",
+        "meanings": [
+            "tray",
+            "shallow bowl",
+            "platter",
+            "tub",
+            "board",
+            "phonograph record"
+        ]
+    },
+    "性": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "さが",
+        "meanings": [
+            "sex",
+            "gender",
+            "nature"
+        ]
+    },
+    "発": {
+        "on_readings": "ハツ, ホツ",
+        "kun_readings": "た.つ, あば.く, おこ.る, つか.わす, はな.つ",
+        "meanings": [
+            "departure",
+            "discharge",
+            "publish",
+            "emit",
+            "start from",
+            "disclose",
+            "counter for gunshots"
+        ]
+    },
+    "売": {
+        "on_readings": "バイ",
+        "kun_readings": "う.る, う.れる",
+        "meanings": [
+            "sell"
+        ]
+    },
+    "前": {
+        "on_readings": "ゼン",
+        "kun_readings": "まえ, -まえ",
+        "meanings": [
+            "in front",
+            "before"
+        ]
+    },
+    "一": {
+        "on_readings": "イチ, イツ",
+        "kun_readings": "ひと-, ひと.つ",
+        "meanings": [
+            "one",
+            "one radical (no.1)"
+        ]
+    },
+    "続": {
+        "on_readings": "ゾク, ショク, コウ, キョウ",
+        "kun_readings": "つづ.く, つづ.ける, つぐ.ない",
+        "meanings": [
+            "continue",
+            "series",
+            "sequel"
+        ]
+    },
+    "編": {
+        "on_readings": "ヘン",
+        "kun_readings": "あ.む, -あ.み",
+        "meanings": [
+            "compilation",
+            "knit",
+            "plait",
+            "braid",
+            "twist",
+            "editing",
+            "completed poem",
+            "part of a book"
+        ]
+    },
+    "待": {
+        "on_readings": "タイ",
+        "kun_readings": "ま.つ, -ま.ち",
+        "meanings": [
+            "wait",
+            "depend on"
+        ]
+    },
+    "品": {
+        "on_readings": "ヒン, ホン",
+        "kun_readings": "しな",
+        "meanings": [
+            "goods",
+            "refinement",
+            "dignity",
+            "article",
+            "counter for meal courses"
+        ]
+    },
+    "勢": {
+        "on_readings": "セイ, ゼイ",
+        "kun_readings": "いきお.い, はずみ",
+        "meanings": [
+            "forces",
+            "energy",
+            "military strength"
+        ]
+    },
+    "揃": {
+        "on_readings": "セン",
+        "kun_readings": "そろ.える, そろ.う, そろ.い, き.る",
+        "meanings": [
+            "be complete",
+            "uniform",
+            "all present"
+        ]
+    },
+    "日": {
+        "on_readings": "ニチ, ジツ",
+        "kun_readings": "ひ, -び, -か",
+        "meanings": [
+            "day",
+            "sun",
+            "Japan",
+            "counter for days"
+        ]
+    },
+    "姫": {
+        "on_readings": "キ",
+        "kun_readings": "ひめ, ひめ-",
+        "meanings": [
+            "princess"
+        ]
+    },
+    "突": {
+        "on_readings": "トツ, カ",
+        "kun_readings": "つ.く",
+        "meanings": [
+            "stab",
+            "protruding",
+            "thrust",
+            "pierce",
+            "prick",
+            "collision",
+            "sudden"
+        ]
+    },
+    "然": {
+        "on_readings": "ゼン, ネン",
+        "kun_readings": "しか, しか.り, しか.し, さ",
+        "meanings": [
+            "sort of thing",
+            "so",
+            "if so",
+            "in that case",
+            "well"
+        ]
+    },
+    "爆": {
+        "on_readings": "バク",
+        "kun_readings": "は.ぜる",
+        "meanings": [
+            "bomb",
+            "burst open",
+            "pop",
+            "split"
+        ]
+    },
+    "蒸": {
+        "on_readings": "ジョウ, セイ",
+        "kun_readings": "む.す, む.れる, む.らす",
+        "meanings": [
+            "steam",
+            "heat",
+            "sultry",
+            "foment",
+            "get musty"
+        ]
+    },
+    "暗": {
+        "on_readings": "アン",
+        "kun_readings": "くら.い, くら.む, くれ.る",
+        "meanings": [
+            "darkness",
+            "disappear",
+            "shade",
+            "informal",
+            "grow dark",
+            "be blinded"
+        ]
+    },
+    "青": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "あお, あお-, あお.い",
+        "meanings": [
+            "blue",
+            "green"
+        ]
+    },
+    "春": {
+        "on_readings": "シュン",
+        "kun_readings": "はる",
+        "meanings": [
+            "springtime",
+            "spring (season)"
+        ]
+    },
+    "黄": {
+        "on_readings": "コウ, オウ",
+        "kun_readings": "き, こ-",
+        "meanings": [
+            "yellow"
+        ]
+    },
+    "力": {
+        "on_readings": "リョク, リキ, リイ",
+        "kun_readings": "ちから",
+        "meanings": [
+            "power",
+            "strength",
+            "strong",
+            "strain",
+            "bear up",
+            "exert"
+        ]
+    },
+    "佐": {
+        "on_readings": "サ",
+        "kun_readings": "",
+        "meanings": [
+            "assistant",
+            "help"
+        ]
+    },
+    "瞳": {
+        "on_readings": "ドウ, トウ",
+        "kun_readings": "ひとみ",
+        "meanings": [
+            "pupil (of eye)"
+        ]
+    },
+    "妙": {
+        "on_readings": "ミョウ, ビョウ",
+        "kun_readings": "たえ",
+        "meanings": [
+            "exquisite",
+            "strange",
+            "queer",
+            "mystery",
+            "miracle",
+            "excellent",
+            "delicate",
+            "charming"
+        ]
+    },
+    "奇": {
+        "on_readings": "キ",
+        "kun_readings": "く.しき, あや.しい, くし, めずら.しい",
+        "meanings": [
+            "strange",
+            "strangeness",
+            "curiosity"
+        ]
+    },
+    "回": {
+        "on_readings": "カイ, エ",
+        "kun_readings": "まわ.る, -まわ.る, -まわ.り, まわ.す, -まわ.す, まわ.し-, -まわ.し, もとお.る, か.える",
+        "meanings": [
+            "-times",
+            "round",
+            "game",
+            "revolve",
+            "counter for occurrences"
+        ]
+    },
+    "復": {
+        "on_readings": "フク",
+        "kun_readings": "また",
+        "meanings": [
+            "restore",
+            "return to",
+            "revert",
+            "resume"
+        ]
+    },
+    "動": {
+        "on_readings": "ドウ",
+        "kun_readings": "うご.く, うご.かす",
+        "meanings": [
+            "move",
+            "motion",
+            "change",
+            "confusion",
+            "shift",
+            "shake"
+        ]
+    },
+    "多": {
+        "on_readings": "タ",
+        "kun_readings": "おお.い, まさ.に, まさ.る",
+        "meanings": [
+            "many",
+            "frequent",
+            "much"
+        ]
+    },
+    "任": {
+        "on_readings": "ニン",
+        "kun_readings": "まか.せる, まか.す",
+        "meanings": [
+            "responsibility",
+            "duty",
+            "term",
+            "entrust to",
+            "appoint"
+        ]
+    },
+    "遂": {
+        "on_readings": "スイ",
+        "kun_readings": "と.げる, つい.に",
+        "meanings": [
+            "consummate",
+            "accomplish",
+            "attain",
+            "commit (suicide)"
+        ]
+    },
+    "可": {
+        "on_readings": "カ, コク",
+        "kun_readings": "-べ.き, -べ.し",
+        "meanings": [
+            "can",
+            "passable",
+            "approval"
+        ]
+    },
+    "速": {
+        "on_readings": "ソク",
+        "kun_readings": "はや.い, はや-, はや.める, すみ.やか",
+        "meanings": [
+            "quick",
+            "fast"
+        ]
+    },
+    "助": {
+        "on_readings": "ジョ",
+        "kun_readings": "たす.ける, たす.かる, す.ける, すけ",
+        "meanings": [
+            "help",
+            "rescue",
+            "assist"
+        ]
+    },
+    "俺": {
+        "on_readings": "エン",
+        "kun_readings": "おれ, われ",
+        "meanings": [
+            "I",
+            "myself"
+        ]
+    },
+    "務": {
+        "on_readings": "ム",
+        "kun_readings": "つと.める",
+        "meanings": [
+            "task",
+            "duties"
+        ]
+    },
+    "方": {
+        "on_readings": "ホウ",
+        "kun_readings": "かた, -かた, -がた",
+        "meanings": [
+            "direction",
+            "person",
+            "alternative"
+        ]
+    },
+    "合": {
+        "on_readings": "ゴウ, ガッ, カッ",
+        "kun_readings": "あ.う, -あ.う, あ.い, あい-, -あ.い, -あい, あ.わす, あ.わせる, -あ.わせる",
+        "meanings": [
+            "fit",
+            "suit",
+            "join",
+            "0.1"
+        ]
+    },
+    "歌": {
+        "on_readings": "カ",
+        "kun_readings": "うた, うた.う",
+        "meanings": [
+            "song",
+            "sing"
+        ]
+    },
+    "詞": {
+        "on_readings": "シ",
+        "kun_readings": "ことば",
+        "meanings": [
+            "part of speech",
+            "words",
+            "poetry"
+        ]
+    },
+    "宣": {
+        "on_readings": "セン",
+        "kun_readings": "のたま.う",
+        "meanings": [
+            "proclaim",
+            "say",
+            "announce"
+        ]
+    },
+    "言": {
+        "on_readings": "ゲン, ゴン",
+        "kun_readings": "い.う, こと",
+        "meanings": [
+            "say",
+            "word"
+        ]
+    },
+    "内": {
+        "on_readings": "ナイ, ダイ",
+        "kun_readings": "うち",
+        "meanings": [
+            "inside",
+            "within",
+            "between",
+            "among",
+            "house",
+            "home"
+        ]
+    },
+    "容": {
+        "on_readings": "ヨウ",
+        "kun_readings": "い.れる",
+        "meanings": [
+            "contain",
+            "form",
+            "looks"
+        ]
+    },
+    "教": {
+        "on_readings": "キョウ",
+        "kun_readings": "おし.える, おそ.わる",
+        "meanings": [
+            "teach",
+            "faith",
+            "doctrine"
+        ]
+    },
+    "室": {
+        "on_readings": "シツ",
+        "kun_readings": "むろ",
+        "meanings": [
+            "room",
+            "apartment",
+            "chamber",
+            "greenhouse",
+            "cellar"
+        ]
+    },
+    "化": {
+        "on_readings": "カ, ケ",
+        "kun_readings": "ば.ける, ば.かす, ふ.ける, け.する",
+        "meanings": [
+            "change",
+            "take the form of",
+            "influence",
+            "enchant",
+            "delude",
+            "-ization"
+        ]
+    },
+    "忠": {
+        "on_readings": "チュウ",
+        "kun_readings": "",
+        "meanings": [
+            "loyalty",
+            "fidelity",
+            "faithfulness"
+        ]
+    },
+    "流": {
+        "on_readings": "リュウ, ル",
+        "kun_readings": "なが.れる, なが.れ, なが.す, -なが.す",
+        "meanings": [
+            "current",
+            "a sink",
+            "flow",
+            "forfeit"
+        ]
+    },
+    "戦": {
+        "on_readings": "セン",
+        "kun_readings": "いくさ, たたか.う, おのの.く, そよ.ぐ, わなな.く",
+        "meanings": [
+            "war",
+            "battle",
+            "match"
+        ]
+    },
+    "礼": {
+        "on_readings": "レイ, ライ",
+        "kun_readings": "",
+        "meanings": [
+            "salute",
+            "bow",
+            "ceremony",
+            "thanks",
+            "remuneration"
+        ]
+    },
+    "楽": {
+        "on_readings": "ガク, ラク, ゴウ",
+        "kun_readings": "たの.しい, たの.しむ, この.む",
+        "meanings": [
+            "music",
+            "comfort",
+            "ease"
+        ]
+    },
+    "嘘": {
+        "on_readings": "キョ, コ",
+        "kun_readings": "うそ, ふ.く",
+        "meanings": [
+            "lie",
+            "falsehood"
+        ]
+    },
+    "中": {
+        "on_readings": "チュウ",
+        "kun_readings": "なか, うち, あた.る",
+        "meanings": [
+            "in",
+            "inside",
+            "middle",
+            "mean",
+            "center"
+        ]
+    },
+    "帰": {
+        "on_readings": "キ",
+        "kun_readings": "かえ.る, かえ.す, おく.る, とつ.ぐ",
+        "meanings": [
+            "homecoming",
+            "arrive at",
+            "lead to",
+            "result in"
+        ]
+    },
+    "在": {
+        "on_readings": "ザイ",
+        "kun_readings": "あ.る",
+        "meanings": [
+            "exist",
+            "outskirts",
+            "suburbs",
+            "located in"
+        ]
+    },
+    "組": {
+        "on_readings": "ソ",
+        "kun_readings": "く.む, くみ, -ぐみ",
+        "meanings": [
+            "association",
+            "braid",
+            "plait",
+            "construct",
+            "assemble",
+            "unite",
+            "cooperate",
+            "grapple"
+        ]
+    },
+    "長": {
+        "on_readings": "チョウ",
+        "kun_readings": "なが.い, おさ",
+        "meanings": [
+            "long",
+            "leader",
+            "superior",
+            "senior"
+        ]
+    },
+    "形": {
+        "on_readings": "ケイ, ギョウ",
+        "kun_readings": "かた, -がた, かたち, なり",
+        "meanings": [
+            "shape",
+            "form",
+            "style"
+        ]
+    },
+    "論": {
+        "on_readings": "ロン",
+        "kun_readings": "あげつら.う",
+        "meanings": [
+            "argument",
+            "discourse"
+        ]
+    },
+    "武": {
+        "on_readings": "ブ, ム",
+        "kun_readings": "たけ, たけ.し",
+        "meanings": [
+            "warrior",
+            "military",
+            "chivalry",
+            "arms"
+        ]
+    },
+    "器": {
+        "on_readings": "キ",
+        "kun_readings": "うつわ",
+        "meanings": [
+            "utensil",
+            "vessel",
+            "receptacle",
+            "implement",
+            "instrument",
+            "ability",
+            "container",
+            "tool",
+            "set"
+        ]
+    },
+    "再": {
+        "on_readings": "サイ, サ",
+        "kun_readings": "ふたた.び",
+        "meanings": [
+            "again",
+            "twice",
+            "second time"
+        ]
+    },
+    "入": {
+        "on_readings": "ニュウ, ジュ",
+        "kun_readings": "い.る, -い.る, -い.り, い.れる, -い.れ, はい.る",
+        "meanings": [
+            "enter",
+            "insert"
+        ]
+    },
+    "販": {
+        "on_readings": "ハン",
+        "kun_readings": "",
+        "meanings": [
+            "marketing",
+            "sell",
+            "trade"
+        ]
+    },
+    "通": {
+        "on_readings": "ツウ, ツ",
+        "kun_readings": "とお.る, とお.り, -とお.り, -どお.り, とお.す, とお.し, -どお.し, かよ.う",
+        "meanings": [
+            "traffic",
+            "pass through",
+            "avenue",
+            "commute",
+            "counter for letters, notes, documents, etc."
+        ]
+    },
+    "税": {
+        "on_readings": "ゼイ",
+        "kun_readings": "",
+        "meanings": [
+            "tax",
+            "duty"
+        ]
+    },
+    "込": {
+        "on_readings": "",
+        "kun_readings": "-こ.む, こ.む, こ.み, -こ.み, こ.める",
+        "meanings": [
+            "crowded",
+            "mixture",
+            "in bulk",
+            "included",
+            "(kokuji)"
+        ]
+    },
+    "元": {
+        "on_readings": "ゲン, ガン",
+        "kun_readings": "もと",
+        "meanings": [
+            "beginning",
+            "former time",
+            "origin"
+        ]
+    },
+    "追": {
+        "on_readings": "ツイ",
+        "kun_readings": "お.う",
+        "meanings": [
+            "chase",
+            "drive away",
+            "follow",
+            "pursue",
+            "meanwhile"
+        ]
+    },
+    "職": {
+        "on_readings": "ショク, ソク",
+        "kun_readings": "",
+        "meanings": [
+            "post",
+            "employment",
+            "work"
+        ]
+    },
+    "角": {
+        "on_readings": "カク",
+        "kun_readings": "かど, つの",
+        "meanings": [
+            "angle",
+            "corner",
+            "square",
+            "horn",
+            "antlers"
+        ]
+    },
+    "街": {
+        "on_readings": "ガイ, カイ",
+        "kun_readings": "まち",
+        "meanings": [
+            "boulevard",
+            "street",
+            "town"
+        ]
+    },
+    "問": {
+        "on_readings": "モン",
+        "kun_readings": "と.う, と.い, とん",
+        "meanings": [
+            "question",
+            "ask",
+            "problem"
+        ]
+    },
+    "疑": {
+        "on_readings": "ギ",
+        "kun_readings": "うたが.う",
+        "meanings": [
+            "doubt",
+            "distrust",
+            "be suspicious",
+            "question"
+        ]
+    },
+    "徹": {
+        "on_readings": "テツ",
+        "kun_readings": "",
+        "meanings": [
+            "penetrate",
+            "clear",
+            "pierce",
+            "strike home",
+            "sit up (all night)"
+        ]
+    },
+    "底": {
+        "on_readings": "テイ",
+        "kun_readings": "そこ",
+        "meanings": [
+            "bottom",
+            "sole",
+            "depth",
+            "bottom price",
+            "base",
+            "kind",
+            "sort"
+        ]
+    },
+    "転": {
+        "on_readings": "テン",
+        "kun_readings": "ころ.がる, ころ.げる, ころ.がす, ころ.ぶ, まろ.ぶ, うたた, うつ.る, くる.めく",
+        "meanings": [
+            "revolve",
+            "turn around",
+            "change"
+        ]
+    },
+    "意": {
+        "on_readings": "イ",
+        "kun_readings": "",
+        "meanings": [
+            "idea",
+            "mind",
+            "heart",
+            "taste",
+            "thought",
+            "desire",
+            "care",
+            "liking"
+        ]
+    },
+    "義": {
+        "on_readings": "ギ",
+        "kun_readings": "",
+        "meanings": [
+            "righteousness",
+            "justice",
+            "morality",
+            "honor",
+            "loyalty",
+            "meaning"
+        ]
+    },
+    "省": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "かえり.みる, はぶ.く",
+        "meanings": [
+            "government ministry",
+            "conserve",
+            "omit"
+        ]
+    },
+    "極": {
+        "on_readings": "キョク, ゴク",
+        "kun_readings": "きわ.める, きわ.まる, きわ.まり, きわ.み, き.める, -ぎ.め, き.まる",
+        "meanings": [
+            "extreme",
+            "pole",
+            "extremely",
+            "very",
+            "highly",
+            "most",
+            "end",
+            "settlement",
+            "conclusion",
+            "highest rank"
+        ]
+    },
+    "魔": {
+        "on_readings": "マ",
+        "kun_readings": "",
+        "meanings": [
+            "witch",
+            "demon",
+            "evil spirit"
+        ]
+    },
+    "境": {
+        "on_readings": "キョウ, ケイ",
+        "kun_readings": "さかい",
+        "meanings": [
+            "boundary",
+            "border",
+            "region"
+        ]
+    },
+    "模": {
+        "on_readings": "モ, ボ",
+        "kun_readings": "",
+        "meanings": [
+            "imitation",
+            "copy",
+            "mock"
+        ]
+    },
+    "隠": {
+        "on_readings": "イン, オン",
+        "kun_readings": "かく.す, かく.し, かく.れる, よ.る",
+        "meanings": [
+            "conceal",
+            "hide",
+            "cover"
+        ]
+    },
+    "屈": {
+        "on_readings": "クツ",
+        "kun_readings": "かが.む, かが.める",
+        "meanings": [
+            "yield",
+            "bend",
+            "flinch",
+            "submit"
+        ]
+    },
+    "強": {
+        "on_readings": "キョウ, ゴウ",
+        "kun_readings": "つよ.い, つよ.まる, つよ.める, し.いる, こわ.い",
+        "meanings": [
+            "strong"
+        ]
+    },
+    "格": {
+        "on_readings": "カク, コウ, キャク, ゴウ",
+        "kun_readings": "",
+        "meanings": [
+            "status",
+            "rank",
+            "capacity",
+            "character",
+            "case (law, grammar)"
+        ]
+    },
+    "精": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "しら.げる, くわ.しい",
+        "meanings": [
+            "refined",
+            "ghost",
+            "fairy",
+            "energy",
+            "vitality",
+            "semen",
+            "excellence",
+            "purity",
+            "skill"
+        ]
+    },
+    "併": {
+        "on_readings": "ヘイ",
+        "kun_readings": "あわ.せる",
+        "meanings": [
+            "join",
+            "get together",
+            "unite",
+            "collective"
+        ]
+    },
+    "持": {
+        "on_readings": "ジ",
+        "kun_readings": "も.つ, -も.ち, も.てる",
+        "meanings": [
+            "hold",
+            "have"
+        ]
+    },
+    "仲": {
+        "on_readings": "チュウ",
+        "kun_readings": "なか",
+        "meanings": [
+            "go-between",
+            "relationship"
+        ]
+    },
+    "信": {
+        "on_readings": "シン",
+        "kun_readings": "",
+        "meanings": [
+            "faith",
+            "truth",
+            "fidelity",
+            "trust"
+        ]
+    },
+    "頼": {
+        "on_readings": "ライ",
+        "kun_readings": "たの.む, たの.もしい, たよ.る",
+        "meanings": [
+            "trust",
+            "request"
+        ]
+    },
+    "厚": {
+        "on_readings": "コウ",
+        "kun_readings": "あつ.い, あか",
+        "meanings": [
+            "thick",
+            "heavy",
+            "rich",
+            "kind",
+            "cordial",
+            "brazen",
+            "shameless"
+        ]
+    },
+    "声": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "こえ, こわ-",
+        "meanings": [
+            "voice"
+        ]
+    },
+    "劣": {
+        "on_readings": "レツ",
+        "kun_readings": "おと.る",
+        "meanings": [
+            "inferiority",
+            "be inferior to",
+            "be worse"
+        ]
+    },
+    "面": {
+        "on_readings": "メン, ベン",
+        "kun_readings": "おも, おもて, つら",
+        "meanings": [
+            "mask",
+            "face",
+            "features",
+            "surface"
+        ]
+    },
+    "座": {
+        "on_readings": "ザ",
+        "kun_readings": "すわ.る",
+        "meanings": [
+            "squat",
+            "seat",
+            "cushion",
+            "gathering",
+            "sit"
+        ]
+    },
+    "非": {
+        "on_readings": "ヒ",
+        "kun_readings": "あら.ず",
+        "meanings": [
+            "un-",
+            "mistake",
+            "negative",
+            "injustice",
+            "non-"
+        ]
+    },
+    "凡": {
+        "on_readings": "ボン, ハン",
+        "kun_readings": "およ.そ, おうよ.そ, すべ.て",
+        "meanings": [
+            "commonplace",
+            "ordinary",
+            "mediocre"
+        ]
+    },
+    "斬": {
+        "on_readings": "ザン, サン, セン, ゼン",
+        "kun_readings": "き.る",
+        "meanings": [
+            "beheading",
+            "kill",
+            "murder"
+        ]
+    },
+    "撃": {
+        "on_readings": "ゲキ",
+        "kun_readings": "う.つ",
+        "meanings": [
+            "beat",
+            "attack",
+            "defeat",
+            "conquer"
+        ]
+    },
+    "打": {
+        "on_readings": "ダ, ダース",
+        "kun_readings": "う.つ, う.ち-, ぶ.つ",
+        "meanings": [
+            "strike",
+            "hit",
+            "knock",
+            "pound",
+            "dozen"
+        ]
+    },
+    "所": {
+        "on_readings": "ショ",
+        "kun_readings": "ところ, -ところ, どころ, とこ",
+        "meanings": [
+            "place",
+            "extent"
+        ]
+    },
+    "帯": {
+        "on_readings": "タイ",
+        "kun_readings": "お.びる, おび",
+        "meanings": [
+            "sash",
+            "belt",
+            "obi",
+            "zone",
+            "region"
+        ]
+    },
+    "観": {
+        "on_readings": "カン",
+        "kun_readings": "み.る, しめ.す",
+        "meanings": [
+            "outlook",
+            "look",
+            "appearance",
+            "condition",
+            "view"
+        ]
+    },
+    "線": {
+        "on_readings": "セン",
+        "kun_readings": "すじ",
+        "meanings": [
+            "line",
+            "track"
+        ]
+    },
+    "既": {
+        "on_readings": "キ",
+        "kun_readings": "すで.に",
+        "meanings": [
+            "previously",
+            "already",
+            "long ago"
+        ]
+    },
+    "令": {
+        "on_readings": "レイ",
+        "kun_readings": "",
+        "meanings": [
+            "orders",
+            "laws",
+            "command",
+            "decree",
+            "good"
+        ]
+    },
+    "孤": {
+        "on_readings": "コ",
+        "kun_readings": "",
+        "meanings": [
+            "orphan",
+            "alone"
+        ]
+    },
+    "味": {
+        "on_readings": "ミ",
+        "kun_readings": "あじ, あじ.わう",
+        "meanings": [
+            "flavor",
+            "taste"
+        ]
+    },
+    "難": {
+        "on_readings": "ナン",
+        "kun_readings": "かた.い, -がた.い, むずか.しい, むづか.しい, むつか.しい, -にく.い",
+        "meanings": [
+            "difficult",
+            "impossible",
+            "trouble",
+            "accident",
+            "defect"
+        ]
+    },
+    "住": {
+        "on_readings": "ジュウ, ヂュウ, チュウ",
+        "kun_readings": "す.む, す.まう, -ず.まい",
+        "meanings": [
+            "dwell",
+            "reside",
+            "live",
+            "inhabit"
+        ]
+    },
+    "雑": {
+        "on_readings": "ザツ, ゾウ",
+        "kun_readings": "まじ.える, まじ.る",
+        "meanings": [
+            "miscellaneous"
+        ]
+    },
+    "誌": {
+        "on_readings": "シ",
+        "kun_readings": "",
+        "meanings": [
+            "document",
+            "records"
+        ]
+    },
+    "徴": {
+        "on_readings": "チョウ, チ",
+        "kun_readings": "しるし",
+        "meanings": [
+            "indications",
+            "sign",
+            "omen",
+            "symptom",
+            "collect",
+            "seek",
+            "refer to",
+            "question"
+        ]
+    },
+    "質": {
+        "on_readings": "シツ, シチ, チ",
+        "kun_readings": "たち, ただ.す, もと, わりふ",
+        "meanings": [
+            "substance",
+            "quality",
+            "matter",
+            "temperament"
+        ]
+    },
+    "都": {
+        "on_readings": "ト, ツ",
+        "kun_readings": "みやこ",
+        "meanings": [
+            "metropolis",
+            "capital",
+            "all",
+            "everything"
+        ]
+    },
+    "登": {
+        "on_readings": "トウ, ト, ドウ, ショウ, チョウ",
+        "kun_readings": "のぼ.る, あ.がる",
+        "meanings": [
+            "ascend",
+            "climb up"
+        ]
+    },
+    "録": {
+        "on_readings": "ロク",
+        "kun_readings": "しる.す, と.る",
+        "meanings": [
+            "record"
+        ]
+    },
+    "彩": {
+        "on_readings": "サイ",
+        "kun_readings": "いろど.る",
+        "meanings": [
+            "coloring",
+            "paint",
+            "makeup"
+        ]
+    },
+    "経": {
+        "on_readings": "ケイ, キョウ, キン",
+        "kun_readings": "へ.る, た.つ, たていと, はか.る, のり",
+        "meanings": [
+            "sutra",
+            "longitude",
+            "pass thru",
+            "expire",
+            "warp"
+        ]
+    },
+    "識": {
+        "on_readings": "シキ",
+        "kun_readings": "し.る, しる.す",
+        "meanings": [
+            "discriminating",
+            "know",
+            "write"
+        ]
+    },
+    "以": {
+        "on_readings": "イ",
+        "kun_readings": "もっ.て",
+        "meanings": [
+            "by means of",
+            "because",
+            "in view of",
+            "compared with"
+        ]
+    },
+    "数": {
+        "on_readings": "スウ, ス, サク, ソク, シュ",
+        "kun_readings": "かず, かぞ.える, しばしば, せ.める, わずらわ.しい",
+        "meanings": [
+            "number",
+            "strength",
+            "fate",
+            "law",
+            "figures"
+        ]
+    },
+    "字": {
+        "on_readings": "ジ",
+        "kun_readings": "あざ, あざな, -な",
+        "meanings": [
+            "character",
+            "letter",
+            "word",
+            "section of village"
+        ]
+    },
+    "利": {
+        "on_readings": "リ",
+        "kun_readings": "き.く",
+        "meanings": [
+            "profit",
+            "advantage",
+            "benefit"
+        ]
+    },
+    "跡": {
+        "on_readings": "セキ",
+        "kun_readings": "あと",
+        "meanings": [
+            "tracks",
+            "mark",
+            "print",
+            "impression"
+        ]
+    },
+    "軌": {
+        "on_readings": "キ",
+        "kun_readings": "",
+        "meanings": [
+            "rut",
+            "wheel",
+            "track",
+            "model",
+            "way of doing"
+        ]
+    },
+    "創": {
+        "on_readings": "ソウ, ショウ",
+        "kun_readings": "つく.る, はじ.める, きず, けず.しける",
+        "meanings": [
+            "genesis",
+            "wound",
+            "injury",
+            "hurt",
+            "start",
+            "originate"
+        ]
+    },
+    "誕": {
+        "on_readings": "タン",
+        "kun_readings": "",
+        "meanings": [
+            "nativity",
+            "be born",
+            "declension",
+            "lie",
+            "be arbitrary"
+        ]
+    },
+    "原": {
+        "on_readings": "ゲン",
+        "kun_readings": "はら",
+        "meanings": [
+            "meadow",
+            "original",
+            "primitive",
+            "field",
+            "plain",
+            "prairie",
+            "tundra",
+            "wilderness"
+        ]
+    },
+    "罪": {
+        "on_readings": "ザイ",
+        "kun_readings": "つみ",
+        "meanings": [
+            "guilt",
+            "sin",
+            "crime",
+            "fault",
+            "blame",
+            "offense"
+        ]
+    },
+    "紅": {
+        "on_readings": "コウ, ク",
+        "kun_readings": "べに, くれない, あか.い",
+        "meanings": [
+            "crimson",
+            "deep red"
+        ]
+    },
+    "蓮": {
+        "on_readings": "レン",
+        "kun_readings": "はす, はちす",
+        "meanings": [
+            "lotus"
+        ]
+    },
+    "退": {
+        "on_readings": "タイ",
+        "kun_readings": "しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く",
+        "meanings": [
+            "retreat",
+            "withdraw",
+            "retire",
+            "resign",
+            "repel",
+            "expel",
+            "reject"
+        ]
+    },
+    "野": {
+        "on_readings": "ヤ, ショ",
+        "kun_readings": "の, の-",
+        "meanings": [
+            "plains",
+            "field",
+            "rustic",
+            "civilian life"
+        ]
+    },
+    "述": {
+        "on_readings": "ジュツ",
+        "kun_readings": "の.べる",
+        "meanings": [
+            "mention",
+            "state",
+            "speak",
+            "relate"
+        ]
+    },
+    "扱": {
+        "on_readings": "ソウ, キュウ",
+        "kun_readings": "あつか.い, あつか.う, あつか.る, こ.く",
+        "meanings": [
+            "handle",
+            "entertain",
+            "thresh",
+            "strip"
+        ]
+    },
+    "説": {
+        "on_readings": "セツ, ゼイ",
+        "kun_readings": "と.く",
+        "meanings": [
+            "opinion",
+            "theory",
+            "explanation",
+            "rumor"
+        ]
+    },
+    "明": {
+        "on_readings": "メイ, ミョウ, ミン",
+        "kun_readings": "あ.かり, あか.るい, あか.るむ, あか.らむ, あき.らか, あ.ける, -あ.け, あ.く, あ.くる, あ.かす",
+        "meanings": [
+            "bright",
+            "light"
+        ]
+    },
+    "名": {
+        "on_readings": "メイ, ミョウ",
+        "kun_readings": "な, -な",
+        "meanings": [
+            "name",
+            "noted",
+            "distinguished",
+            "reputation"
+        ]
+    },
+    "棚": {
+        "on_readings": "ホウ",
+        "kun_readings": "たな, -だな",
+        "meanings": [
+            "shelf",
+            "ledge",
+            "rack",
+            "mount",
+            "mantle",
+            "trellis"
+        ]
+    },
+    "購": {
+        "on_readings": "コウ",
+        "kun_readings": "",
+        "meanings": [
+            "subscription",
+            "buy"
+        ]
+    },
+    "獲": {
+        "on_readings": "カク",
+        "kun_readings": "え.る",
+        "meanings": [
+            "seize",
+            "get",
+            "find",
+            "earn",
+            "acquire",
+            "can",
+            "may",
+            "able to"
+        ]
+    },
+    "得": {
+        "on_readings": "トク",
+        "kun_readings": "え.る, う.る",
+        "meanings": [
+            "gain",
+            "get",
+            "find",
+            "earn",
+            "acquire",
+            "can",
+            "may",
+            "able to",
+            "profit",
+            "advantage",
+            "benefit"
+        ]
+    },
+    "提": {
+        "on_readings": "テイ, チョウ, ダイ",
+        "kun_readings": "さ.げる",
+        "meanings": [
+            "propose",
+            "take along",
+            "carry in hand"
+        ]
+    },
+    "案": {
+        "on_readings": "アン",
+        "kun_readings": "つくえ",
+        "meanings": [
+            "plan",
+            "suggestion",
+            "draft",
+            "ponder",
+            "fear",
+            "proposition",
+            "idea",
+            "expectation",
+            "worry",
+            "table",
+            "bench"
+        ]
+    },
+    "推": {
+        "on_readings": "スイ",
+        "kun_readings": "お.す",
+        "meanings": [
+            "conjecture",
+            "infer",
+            "guess",
+            "suppose",
+            "support",
+            "push (for)"
+        ]
+    },
+    "薦": {
+        "on_readings": "セン",
+        "kun_readings": "すす.める",
+        "meanings": [
+            "recommend",
+            "mat",
+            "advise",
+            "encourage",
+            "offer"
+        ]
+    },
+    "反": {
+        "on_readings": "ハン, ホン, タン, ホ",
+        "kun_readings": "そ.る, そ.らす, かえ.す, かえ.る, -かえ.る",
+        "meanings": [
+            "anti-"
+        ]
+    },
+    "逆": {
+        "on_readings": "ギャク, ゲキ",
+        "kun_readings": "さか, さか.さ, さか.らう",
+        "meanings": [
+            "inverted",
+            "reverse",
+            "opposite",
+            "wicked"
+        ]
+    },
+    "話": {
+        "on_readings": "ワ",
+        "kun_readings": "はな.す, はなし",
+        "meanings": [
+            "tale",
+            "talk"
+        ]
+    },
+    "題": {
+        "on_readings": "ダイ",
+        "kun_readings": "",
+        "meanings": [
+            "topic",
+            "subject"
+        ]
+    },
+    "氷": {
+        "on_readings": "ヒョウ",
+        "kun_readings": "こおり, ひ, こお.る",
+        "meanings": [
+            "icicle",
+            "ice",
+            "hail",
+            "freeze",
+            "congeal"
+        ]
+    },
+    "城": {
+        "on_readings": "ジョウ, セイ",
+        "kun_readings": "しろ",
+        "meanings": [
+            "castle"
+        ]
+    },
+    "壁": {
+        "on_readings": "ヘキ",
+        "kun_readings": "かべ",
+        "meanings": [
+            "wall",
+            "lining (stomach)",
+            "fence"
+        ]
+    },
+    "星": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "ほし, -ぼし",
+        "meanings": [
+            "star",
+            "spot",
+            "dot",
+            "mark"
+        ]
+    },
+    "悪": {
+        "on_readings": "アク, オ",
+        "kun_readings": "わる.い, わる-, あ.し, にく.い, -にく.い, ああ, いずくに, いずくんぞ, にく.む",
+        "meanings": [
+            "bad",
+            "vice",
+            "rascal",
+            "false",
+            "evil",
+            "wrong"
+        ]
+    },
+    "徳": {
+        "on_readings": "トク",
+        "kun_readings": "",
+        "meanings": [
+            "benevolence",
+            "virtue",
+            "goodness",
+            "commanding respect"
+        ]
+    },
+    "残": {
+        "on_readings": "ザン, サン",
+        "kun_readings": "のこ.る, のこ.す, そこな.う, のこ.り",
+        "meanings": [
+            "remainder",
+            "leftover",
+            "balance"
+        ]
+    },
+    "花": {
+        "on_readings": "カ, ケ",
+        "kun_readings": "はな",
+        "meanings": [
+            "flower"
+        ]
+    },
+    "嫁": {
+        "on_readings": "カ",
+        "kun_readings": "よめ, とつ.ぐ, い.く, ゆ.く",
+        "meanings": [
+            "marry into",
+            "bride"
+        ]
+    },
+    "彼": {
+        "on_readings": "ヒ",
+        "kun_readings": "かれ, かの, か.の",
+        "meanings": [
+            "he",
+            "that",
+            "the"
+        ]
+    },
+    "女": {
+        "on_readings": "ジョ, ニョ, ニョウ",
+        "kun_readings": "おんな, め",
+        "meanings": [
+            "woman",
+            "female"
+        ]
+    },
+    "愛": {
+        "on_readings": "アイ",
+        "kun_readings": "いと.しい, かな.しい, め.でる, お.しむ, まな",
+        "meanings": [
+            "love",
+            "affection",
+            "favourite"
+        ]
+    },
+    "終": {
+        "on_readings": "シュウ",
+        "kun_readings": "お.わる, -お.わる, おわ.る, お.える, つい, つい.に",
+        "meanings": [
+            "end",
+            "finish"
+        ]
+    },
+    "国": {
+        "on_readings": "コク",
+        "kun_readings": "くに",
+        "meanings": [
+            "country"
+        ]
+    },
+    "必": {
+        "on_readings": "ヒツ",
+        "kun_readings": "かなら.ず",
+        "meanings": [
+            "invariably",
+            "certain",
+            "inevitable"
+        ]
+    },
+    "密": {
+        "on_readings": "ミツ",
+        "kun_readings": "ひそ.か",
+        "meanings": [
+            "secrecy",
+            "density (pop)",
+            "minuteness",
+            "carefulness"
+        ]
+    },
+    "天": {
+        "on_readings": "テン",
+        "kun_readings": "あまつ, あめ, あま-",
+        "meanings": [
+            "heavens",
+            "sky",
+            "imperial"
+        ]
+    },
+    "挨": {
+        "on_readings": "アイ",
+        "kun_readings": "ひら.く",
+        "meanings": [
+            "approach",
+            "draw near",
+            "push open"
+        ]
+    },
+    "不": {
+        "on_readings": "フ, ブ",
+        "kun_readings": "",
+        "meanings": [
+            "negative",
+            "non-",
+            "bad",
+            "ugly",
+            "clumsy"
+        ]
+    },
+    "揺": {
+        "on_readings": "ヨウ",
+        "kun_readings": "ゆ.れる, ゆ.る, ゆ.らぐ, ゆ.るぐ, ゆ.する, ゆ.さぶる, ゆ.すぶる, うご.く",
+        "meanings": [
+            "swing",
+            "shake",
+            "sway",
+            "rock",
+            "tremble",
+            "vibrate"
+        ]
+    },
+    "科": {
+        "on_readings": "カ",
+        "kun_readings": "",
+        "meanings": [
+            "department",
+            "course",
+            "section"
+        ]
+    },
+    "朋": {
+        "on_readings": "ホウ",
+        "kun_readings": "とも",
+        "meanings": [
+            "companion",
+            "friend"
+        ]
+    },
+    "友": {
+        "on_readings": "ユウ",
+        "kun_readings": "とも",
+        "meanings": [
+            "friend"
+        ]
+    },
+    "迫": {
+        "on_readings": "ハク",
+        "kun_readings": "せま.る",
+        "meanings": [
+            "urge",
+            "force",
+            "imminent",
+            "spur on"
+        ]
+    },
+    "大": {
+        "on_readings": "ダイ, タイ",
+        "kun_readings": "おお-, おお.きい, -おお.いに",
+        "meanings": [
+            "large",
+            "big"
+        ]
+    },
+    "重": {
+        "on_readings": "ジュウ, チョウ",
+        "kun_readings": "え, おも.い, おも.り, おも.なう, かさ.ねる, かさ.なる, おも",
+        "meanings": [
+            "heavy",
+            "important",
+            "esteem",
+            "respect",
+            "heap up",
+            "pile up",
+            "nest of boxes",
+            "-fold"
+        ]
+    },
+    "版": {
+        "on_readings": "ハン",
+        "kun_readings": "",
+        "meanings": [
+            "printing block",
+            "printing plate",
+            "edition",
+            "impression",
+            "label"
+        ]
+    },
+    "聳": {
+        "on_readings": "ショウ",
+        "kun_readings": "そび.える",
+        "meanings": [
+            "rise",
+            "tower"
+        ]
+    },
+    "鈴": {
+        "on_readings": "レイ, リン",
+        "kun_readings": "すず",
+        "meanings": [
+            "small bell",
+            "buzzer"
+        ]
+    },
+    "蘭": {
+        "on_readings": "ラン, ラ",
+        "kun_readings": "",
+        "meanings": [
+            "orchid",
+            "Holland"
+        ]
+    },
+    "幽": {
+        "on_readings": "ユウ",
+        "kun_readings": "ふか.い, かす.か, くら.い, しろ.い",
+        "meanings": [
+            "seclude",
+            "confine to a room",
+            "deep",
+            "profound",
+            "secluded",
+            "faint",
+            "dark",
+            "tranquil",
+            "calm"
+        ]
+    },
+    "霊": {
+        "on_readings": "レイ, リョウ",
+        "kun_readings": "たま",
+        "meanings": [
+            "spirits",
+            "soul"
+        ]
+    },
+    "団": {
+        "on_readings": "ダン, トン",
+        "kun_readings": "かたまり, まる.い",
+        "meanings": [
+            "group",
+            "association"
+        ]
+    },
+    "呼": {
+        "on_readings": "コ",
+        "kun_readings": "よ.ぶ",
+        "meanings": [
+            "call",
+            "call out to",
+            "invite"
+        ]
+    },
+    "嫌": {
+        "on_readings": "ケン, ゲン",
+        "kun_readings": "きら.う, きら.い, いや",
+        "meanings": [
+            "dislike",
+            "detest",
+            "hate"
+        ]
+    },
+    "泉": {
+        "on_readings": "セン",
+        "kun_readings": "いずみ",
+        "meanings": [
+            "spring",
+            "fountain"
+        ]
+    },
+    "妖": {
+        "on_readings": "ヨウ",
+        "kun_readings": "あや.しい, なま.めく, わざわ.い",
+        "meanings": [
+            "attractive",
+            "bewitching",
+            "calamity"
+        ]
+    },
+    "怪": {
+        "on_readings": "カイ, ケ",
+        "kun_readings": "あや.しい, あや.しむ",
+        "meanings": [
+            "suspicious",
+            "mystery",
+            "apparition"
+        ]
+    },
+    "覚": {
+        "on_readings": "カク",
+        "kun_readings": "おぼ.える, さ.ます, さ.める, さと.る",
+        "meanings": [
+            "memorize",
+            "learn",
+            "remember",
+            "awake",
+            "sober up"
+        ]
+    },
+    "聖": {
+        "on_readings": "セイ, ショウ",
+        "kun_readings": "ひじり",
+        "meanings": [
+            "holy",
+            "saint",
+            "sage",
+            "master",
+            "priest"
+        ]
+    },
+    "両": {
+        "on_readings": "リョウ",
+        "kun_readings": "てる, ふたつ",
+        "meanings": [
+            "both",
+            "old Japanese coin",
+            "counter for carriages (e.g., in a train)",
+            "two"
+        ]
+    },
+    "親": {
+        "on_readings": "シン",
+        "kun_readings": "おや, おや-, した.しい, した.しむ",
+        "meanings": [
+            "parent",
+            "intimacy",
+            "relative",
+            "familiarity",
+            "dealer (cards)"
+        ]
+    },
+    "紹": {
+        "on_readings": "ショウ",
+        "kun_readings": "",
+        "meanings": [
+            "introduce",
+            "inherit",
+            "help"
+        ]
+    },
+    "介": {
+        "on_readings": "カイ",
+        "kun_readings": "",
+        "meanings": [
+            "jammed in",
+            "shellfish",
+            "mediate",
+            "concern oneself with"
+        ]
+    },
+    "激": {
+        "on_readings": "ゲキ",
+        "kun_readings": "はげ.しい",
+        "meanings": [
+            "violent",
+            "get excited",
+            "enraged",
+            "chafe",
+            "incite"
+        ]
+    },
+    "辞": {
+        "on_readings": "ジ",
+        "kun_readings": "や.める, いな.む",
+        "meanings": [
+            "resign",
+            "word",
+            "term",
+            "expression"
+        ]
+    },
+    "棟": {
+        "on_readings": "トウ",
+        "kun_readings": "むね, むな-",
+        "meanings": [
+            "ridgepole",
+            "ridge"
+        ]
+    },
+    "暮": {
+        "on_readings": "ボ",
+        "kun_readings": "く.れる, く.らす",
+        "meanings": [
+            "evening",
+            "twilight",
+            "season's end",
+            "livelihood",
+            "make a living",
+            "spend time"
+        ]
+    },
+    "亡": {
+        "on_readings": "ボウ, モウ",
+        "kun_readings": "な.い, な.き-, ほろ.びる, ほろ.ぶ, ほろ.ぼす",
+        "meanings": [
+            "deceased",
+            "the late",
+            "dying",
+            "perish"
+        ]
+    },
+    "法": {
+        "on_readings": "ホウ, ハッ, ホッ, フラン",
+        "kun_readings": "のり",
+        "meanings": [
+            "method",
+            "law",
+            "rule",
+            "principle",
+            "model",
+            "system"
+        ]
+    },
+    "語": {
+        "on_readings": "ゴ",
+        "kun_readings": "かた.る, かた.らう",
+        "meanings": [
+            "word",
+            "speech",
+            "language"
+        ]
+    },
+    "構": {
+        "on_readings": "コウ",
+        "kun_readings": "かま.える, かま.う",
+        "meanings": [
+            "posture",
+            "stance",
+            "appearance",
+            "build",
+            "set up"
+        ]
+    },
+    "成": {
+        "on_readings": "セイ, ジョウ",
+        "kun_readings": "な.る, な.す, -な.す",
+        "meanings": [
+            "turn into",
+            "become",
+            "get",
+            "grow",
+            "elapse",
+            "reach"
+        ]
+    },
+    "恋": {
+        "on_readings": "レン",
+        "kun_readings": "こ.う, こい, こい.しい",
+        "meanings": [
+            "romance",
+            "in love",
+            "yearn for",
+            "miss",
+            "darling"
+        ]
+    },
+    "趣": {
+        "on_readings": "シュ",
+        "kun_readings": "おもむき, おもむ.く",
+        "meanings": [
+            "purport",
+            "gist",
+            "elegance",
+            "interest",
+            "proceed to",
+            "tend",
+            "become"
+        ]
+    },
+    "告": {
+        "on_readings": "コク",
+        "kun_readings": "つ.げる",
+        "meanings": [
+            "revelation",
+            "tell",
+            "inform",
+            "announce"
+        ]
+    },
+    "才": {
+        "on_readings": "サイ",
+        "kun_readings": "",
+        "meanings": [
+            "genius",
+            "years old",
+            "cubic shaku"
+        ]
+    },
+    "火": {
+        "on_readings": "カ",
+        "kun_readings": "ひ, -び, ほ-",
+        "meanings": [
+            "fire"
+        ]
+    },
+    "冒": {
+        "on_readings": "ボウ",
+        "kun_readings": "おか.す",
+        "meanings": [
+            "risk",
+            "face",
+            "defy",
+            "dare",
+            "damage",
+            "assume (a name)"
+        ]
+    },
+    "侍": {
+        "on_readings": "ジ, シ",
+        "kun_readings": "さむらい, はべ.る",
+        "meanings": [
+            "waiter",
+            "samurai",
+            "wait upon",
+            "serve"
+        ]
+    },
+    "応": {
+        "on_readings": "オウ, ヨウ, -ノウ",
+        "kun_readings": "あた.る, まさに, こた.える",
+        "meanings": [
+            "apply",
+            "answer",
+            "yes",
+            "OK",
+            "reply",
+            "accept"
+        ]
+    },
+    "息": {
+        "on_readings": "ソク",
+        "kun_readings": "いき",
+        "meanings": [
+            "breath",
+            "respiration",
+            "son",
+            "interest (on money)",
+            "rest",
+            "coming to an end"
+        ]
+    },
+    "寝": {
+        "on_readings": "シン",
+        "kun_readings": "ね.る, ね.かす, い.ぬ, みたまや, や.める",
+        "meanings": [
+            "lie down",
+            "sleep",
+            "rest",
+            "bed",
+            "remain unsold"
+        ]
+    },
+    "睡": {
+        "on_readings": "スイ",
+        "kun_readings": "ねむ.る, ねむ.い",
+        "meanings": [
+            "drowsy",
+            "sleep",
+            "die"
+        ]
+    },
+    "眠": {
+        "on_readings": "ミン",
+        "kun_readings": "ねむ.る, ねむ.い",
+        "meanings": [
+            "sleep",
+            "die",
+            "sleepy"
+        ]
+    },
+    "摂": {
+        "on_readings": "セツ, ショウ",
+        "kun_readings": "おさ.める, かね.る, と.る",
+        "meanings": [
+            "vicarious",
+            "surrogate",
+            "act in addition to",
+            "take in",
+            "absorb"
+        ]
+    },
+    "取": {
+        "on_readings": "シュ",
+        "kun_readings": "と.る, と.り, と.り-, とり, -ど.り",
+        "meanings": [
+            "take",
+            "fetch",
+            "take up"
+        ]
+    },
+    "池": {
+        "on_readings": "チ",
+        "kun_readings": "いけ",
+        "meanings": [
+            "pond",
+            "cistern",
+            "pool",
+            "reservoir"
+        ]
+    },
+    "電": {
+        "on_readings": "デン",
+        "kun_readings": "",
+        "meanings": [
+            "electricity"
+        ]
+    },
+    "略": {
+        "on_readings": "リャク",
+        "kun_readings": "ほぼ, はぶ.く, おか.す, おさ.める, はかりごと, はか.る",
+        "meanings": [
+            "abbreviation",
+            "omission",
+            "outline",
+            "shorten",
+            "capture",
+            "plunder"
+        ]
+    },
+    "肩": {
+        "on_readings": "ケン",
+        "kun_readings": "かた",
+        "meanings": [
+            "shoulder"
+        ]
+    },
+    "更": {
+        "on_readings": "コウ",
+        "kun_readings": "さら, さら.に, ふ.ける, ふ.かす",
+        "meanings": [
+            "grow late",
+            "night watch",
+            "sit up late",
+            "of course",
+            "renew",
+            "renovate",
+            "again",
+            "more and more",
+            "further"
+        ]
+    },
+    "忘": {
+        "on_readings": "ボウ",
+        "kun_readings": "わす.れる",
+        "meanings": [
+            "forget"
+        ]
+    },
+    "他": {
+        "on_readings": "タ",
+        "kun_readings": "ほか",
+        "meanings": [
+            "other",
+            "another",
+            "the others"
+        ]
+    },
+    "測": {
+        "on_readings": "ソク",
+        "kun_readings": "はか.る",
+        "meanings": [
+            "fathom",
+            "plan",
+            "scheme",
+            "measure"
+        ]
+    },
+    "予": {
+        "on_readings": "ヨ, シャ",
+        "kun_readings": "あらかじ.め",
+        "meanings": [
+            "beforehand",
+            "previous",
+            "myself",
+            "I"
+        ]
+    },
+    "確": {
+        "on_readings": "カク, コウ",
+        "kun_readings": "たし.か, たし.かめる",
+        "meanings": [
+            "assurance",
+            "firm",
+            "tight",
+            "hard",
+            "solid",
+            "confirm",
+            "clear",
+            "evident"
+        ]
+    },
+    "済": {
+        "on_readings": "サイ, セイ",
+        "kun_readings": "す.む, -ず.み, -ずみ, す.まない, す.ます, -す.ます, すく.う, な.す, わたし, わた.る",
+        "meanings": [
+            "settle (debt, etc.)",
+            "relieve (burden)",
+            "finish",
+            "come to an end",
+            "excusable",
+            "need not"
+        ]
+    },
+    "頃": {
+        "on_readings": "ケイ, キョウ",
+        "kun_readings": "ころ, ごろ, しばら.く",
+        "meanings": [
+            "time",
+            "about",
+            "toward"
+        ]
+    },
+    "膝": {
+        "on_readings": "シツ",
+        "kun_readings": "ひざ",
+        "meanings": [
+            "knee",
+            "lap"
+        ]
+    },
+    "枕": {
+        "on_readings": "チン, シン",
+        "kun_readings": "まくら",
+        "meanings": [
+            "pillow"
+        ]
+    },
+    "相": {
+        "on_readings": "ソウ, ショウ",
+        "kun_readings": "あい-",
+        "meanings": [
+            "inter-",
+            "mutual",
+            "together",
+            "each other",
+            "minister of state",
+            "councillor",
+            "aspect",
+            "phase",
+            "physiognomy"
+        ]
+    },
+    "談": {
+        "on_readings": "ダン",
+        "kun_readings": "",
+        "meanings": [
+            "discuss",
+            "talk"
+        ]
+    },
+    "菓": {
+        "on_readings": "カ",
+        "kun_readings": "",
+        "meanings": [
+            "candy",
+            "cakes",
+            "fruit"
+        ]
+    },
+    "子": {
+        "on_readings": "シ, ス, ツ",
+        "kun_readings": "こ, -こ, ね",
+        "meanings": [
+            "child",
+            "sign of the rat",
+            "11PM-1AM",
+            "first sign of Chinese zodiac"
+        ]
+    },
+    "男": {
+        "on_readings": "ダン, ナン",
+        "kun_readings": "おとこ, お",
+        "meanings": [
+            "male"
+        ]
+    },
+    "刮": {
+        "on_readings": "カツ",
+        "kun_readings": "こそ.げる, けず.る",
+        "meanings": [
+            "scrape off"
+        ]
+    },
+    "匠": {
+        "on_readings": "ショウ",
+        "kun_readings": "たくみ",
+        "meanings": [
+            "artisan",
+            "workman",
+            "carpenter"
+        ]
+    }
+}
