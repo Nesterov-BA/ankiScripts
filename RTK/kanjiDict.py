@@ -1,12 +1,26 @@
+import ast
 import json
+import re
+from collections import Counter
 
-import numpy as np
-import pandas as pd
 import requests
 from tqdm import tqdm
 
 
 def anki_connect_invoke(action, version, params=None):
+    """
+
+    Args:
+        action ():
+        version ():
+        params ():
+
+    Returns:
+
+
+    Raises:
+        Exception:
+    """
     if params is None:
         params = {}
     url = "http://127.0.0.1:8765"
@@ -22,7 +36,27 @@ def anki_connect_invoke(action, version, params=None):
     return data["result"]
 
 
+def word_list():
+    ids = anki_connect_invoke(
+        "findNotes",
+        5,
+        {
+            "query": "deck:Mining",
+        },
+    )
+    notes = anki_connect_invoke("notesInfo", 5, {"notes": ids})
+    list = []
+    for note in tqdm(notes):
+        list.append(note["fields"]["Word"]["value"])
+    return list
+
+
 def kanji_json():
+    """
+
+    Returns:
+        JSON containing all information about kanji in deck
+    """
     ids = anki_connect_invoke(
         "findNotes",
         5,
@@ -35,8 +69,6 @@ def kanji_json():
     for note in tqdm(notes):
         # return note
         defin = note["fields"]["English"]["value"].split("<li>")
-        print(defin)
-
         if len(defin) == 1:
             defin = (
                 defin[0]
@@ -89,8 +121,21 @@ def kanji_json():
 #
 #     json.dump(cardsInfo[-1], f, indent=4, ensure_ascii=False)
 
-data = kanji_json()
 
+data = kanji_json()
+kanji_list = set(data.keys())
+# words = word_list()
+
+# counts = Counter("".join(words))
+# all_kanji_in_words = set("".join(words))
+# KANJI = re.compile(r"[\u3005\u3400-\u4DBF\u4E00-\u9FFF\uF900-\uFAFF]")
+
+# kanji_only = {c for c in all_kanji_in_words if KANJI.fullmatch(c)}
+# print(kanji_only - kanji_list)
+# d = {k: counts[k] for k in kanji_list}
+# sorted_d = dict(sorted(d.items(), key=lambda kv: (-kv[1], kv[0])))
+# print(len(kanji_list))
+# print(sorted_d)
 with open(
     "/home/boris/.local/share/Anki2/User 1/collection.media/kanji.json",
     "r",
